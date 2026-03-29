@@ -1,6 +1,9 @@
 # CO₂ Emissions and Economic Activity
 ### DA4 Assignment 2 — Panel Data Analysis
 
+## 🌐 Live Project
+👉 https://fazilebrahimi1.github.io/da4-assignment2/
+
 Does economic growth cause CO₂ emissions? This report estimates the elasticity of per-capita CO₂ emissions with respect to per-capita GDP using six econometric specifications on 50 countries over 31 years (1992–2022).
 
 ---
