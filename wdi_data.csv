@@ -1,0 +1,1551 @@
+country_code,country_name,region,year,gdp_pc_ppp,co2_pc
+USA,United States,North America,1992,42060.73,13.3014
+USA,United States,North America,1993,44676.74,
+USA,United States,North America,1994,45216.13,12.9702
+USA,United States,North America,1995,46250.35,13.5184
+USA,United States,North America,1996,45243.76,12.3779
+USA,United States,North America,1997,48605.08,14.5851
+USA,United States,North America,1998,49404.44,13.2092
+USA,United States,North America,1999,51105.24,13.3537
+USA,United States,North America,2000,52088.66,13.7976
+USA,United States,North America,2001,52706.54,14.3615
+USA,United States,North America,2002,53978.71,12.9839
+USA,United States,North America,2003,57057.32,14.8184
+USA,United States,North America,2004,58595.58,14.3219
+USA,United States,North America,2005,59639.76,14.1102
+USA,United States,North America,2006,62966.3,15.0915
+USA,United States,North America,2007,62857.38,
+USA,United States,North America,2008,65885.35,15.8188
+USA,United States,North America,2009,68130.22,14.6017
+USA,United States,North America,2010,68287.29,14.7428
+USA,United States,North America,2011,70337.67,15.8957
+USA,United States,North America,2012,74534.2,16.0237
+USA,United States,North America,2013,73577.82,15.4122
+USA,United States,North America,2014,79016.09,16.1386
+USA,United States,North America,2015,78217.33,15.6234
+USA,United States,North America,2016,81428.58,15.4482
+USA,United States,North America,2017,82241.62,16.7876
+USA,United States,North America,2018,85917.23,16.4501
+USA,United States,North America,2019,89415.58,16.0918
+USA,United States,North America,2020,89521.74,
+USA,United States,North America,2021,93071.55,15.6535
+USA,United States,North America,2022,94334.52,16.6571
+CHN,China,East Asia,1992,8528.86,5.807
+CHN,China,East Asia,1993,8386.23,5.6954
+CHN,China,East Asia,1994,8960.56,6.6893
+CHN,China,East Asia,1995,9156.31,6.0349
+CHN,China,East Asia,1996,9658.21,6.3435
+CHN,China,East Asia,1997,9970.88,5.7664
+CHN,China,East Asia,1998,9761.68,5.8649
+CHN,China,East Asia,1999,9913.76,6.059
+CHN,China,East Asia,2000,10310.99,6.64
+CHN,China,East Asia,2001,10618.47,6.1109
+CHN,China,East Asia,2002,11259.27,6.0234
+CHN,China,East Asia,2003,11016.94,6.3041
+CHN,China,East Asia,2004,11745.18,6.7252
+CHN,China,East Asia,2005,12125.92,6.6456
+CHN,China,East Asia,2006,12157.76,6.5703
+CHN,China,East Asia,2007,12731.65,
+CHN,China,East Asia,2008,13493.49,7.0119
+CHN,China,East Asia,2009,13092.76,6.9044
+CHN,China,East Asia,2010,13977.97,7.0234
+CHN,China,East Asia,2011,14012.77,6.571
+CHN,China,East Asia,2012,14439.91,7.0176
+CHN,China,East Asia,2013,14856.83,7.493
+CHN,China,East Asia,2014,15446.38,6.7915
+CHN,China,East Asia,2015,15334.5,7.1532
+CHN,China,East Asia,2016,16018.04,
+CHN,China,East Asia,2017,16681.68,7.2337
+CHN,China,East Asia,2018,16686.04,6.6647
+CHN,China,East Asia,2019,17504.39,6.9157
+CHN,China,East Asia,2020,17586.9,7.3674
+CHN,China,East Asia,2021,18405.64,7.0574
+CHN,China,East Asia,2022,19294.42,8.0601
+DEU,Germany,Europe,1992,34050.78,7.3511
+DEU,Germany,Europe,1993,37406.1,7.9453
+DEU,Germany,Europe,1994,36053.67,7.032
+DEU,Germany,Europe,1995,36395.54,8.178
+DEU,Germany,Europe,1996,36199.28,7.017
+DEU,Germany,Europe,1997,39463.07,7.2906
+DEU,Germany,Europe,1998,40220.63,7.5985
+DEU,Germany,Europe,1999,40243.88,6.7857
+DEU,Germany,Europe,2000,42052.59,
+DEU,Germany,Europe,2001,42952.68,7.9004
+DEU,Germany,Europe,2002,45011.17,7.6959
+DEU,Germany,Europe,2003,44868.27,7.3095
+DEU,Germany,Europe,2004,47577.33,8.9295
+DEU,Germany,Europe,2005,49001.47,
+DEU,Germany,Europe,2006,48630.43,8.1724
+DEU,Germany,Europe,2007,51475.06,7.0028
+DEU,Germany,Europe,2008,51025.15,8.792
+DEU,Germany,Europe,2009,52008.41,8.7377
+DEU,Germany,Europe,2010,53436.44,7.8105
+DEU,Germany,Europe,2011,57034.37,8.5305
+DEU,Germany,Europe,2012,57622.18,9.1764
+DEU,Germany,Europe,2013,58210.13,8.3884
+DEU,Germany,Europe,2014,62040.28,8.8738
+DEU,Germany,Europe,2015,62225.53,8.4289
+DEU,Germany,Europe,2016,65852.22,9.3537
+DEU,Germany,Europe,2017,66938.14,8.5916
+DEU,Germany,Europe,2018,67600.89,8.9182
+DEU,Germany,Europe,2019,70412.67,9.3466
+DEU,Germany,Europe,2020,71893.41,9.521
+DEU,Germany,Europe,2021,75391.95,9.9818
+DEU,Germany,Europe,2022,76252.65,9.4844
+IND,India,South Asia,1992,3597.81,1.5064
+IND,India,South Asia,1993,3834.0,1.4611
+IND,India,South Asia,1994,3836.5,1.33
+IND,India,South Asia,1995,4008.29,1.4097
+IND,India,South Asia,1996,4059.98,1.3792
+IND,India,South Asia,1997,4144.89,1.3893
+IND,India,South Asia,1998,4185.45,1.437
+IND,India,South Asia,1999,4204.4,1.3149
+IND,India,South Asia,2000,4370.08,1.4198
+IND,India,South Asia,2001,4619.84,1.4654
+IND,India,South Asia,2002,4650.13,1.4481
+IND,India,South Asia,2003,4795.98,1.4261
+IND,India,South Asia,2004,4870.54,1.5177
+IND,India,South Asia,2005,5022.46,1.5057
+IND,India,South Asia,2006,5124.26,1.5489
+IND,India,South Asia,2007,5477.32,1.5082
+IND,India,South Asia,2008,5614.8,1.5162
+IND,India,South Asia,2009,5276.12,1.4576
+IND,India,South Asia,2010,5677.78,1.713
+IND,India,South Asia,2011,5673.55,1.5817
+IND,India,South Asia,2012,5762.87,1.6929
+IND,India,South Asia,2013,6205.82,1.5734
+IND,India,South Asia,2014,5999.6,1.6665
+IND,India,South Asia,2015,6345.35,1.706
+IND,India,South Asia,2016,6515.45,1.6211
+IND,India,South Asia,2017,6613.6,1.6693
+IND,India,South Asia,2018,6852.35,1.685
+IND,India,South Asia,2019,6790.75,1.7223
+IND,India,South Asia,2020,7398.85,1.7084
+IND,India,South Asia,2021,7656.65,1.8805
+IND,India,South Asia,2022,7624.17,1.8207
+GBR,United Kingdom,Europe,1992,27509.84,4.7894
+GBR,United Kingdom,Europe,1993,28184.62,5.516
+GBR,United Kingdom,Europe,1994,30292.05,4.8932
+GBR,United Kingdom,Europe,1995,31128.85,4.8487
+GBR,United Kingdom,Europe,1996,32050.28,5.5336
+GBR,United Kingdom,Europe,1997,32464.04,5.4105
+GBR,United Kingdom,Europe,1998,34739.45,5.4871
+GBR,United Kingdom,Europe,1999,34562.11,5.5288
+GBR,United Kingdom,Europe,2000,35436.87,6.1784
+GBR,United Kingdom,Europe,2001,37300.45,5.5495
+GBR,United Kingdom,Europe,2002,38567.97,5.792
+GBR,United Kingdom,Europe,2003,39392.11,5.6994
+GBR,United Kingdom,Europe,2004,40298.36,5.4578
+GBR,United Kingdom,Europe,2005,43164.01,6.2948
+GBR,United Kingdom,Europe,2006,43542.48,6.0533
+GBR,United Kingdom,Europe,2007,43739.15,
+GBR,United Kingdom,Europe,2008,44645.42,5.8837
+GBR,United Kingdom,Europe,2009,46312.33,6.7163
+GBR,United Kingdom,Europe,2010,49625.97,6.4393
+GBR,United Kingdom,Europe,2011,49377.66,6.0085
+GBR,United Kingdom,Europe,2012,51560.69,6.7641
+GBR,United Kingdom,Europe,2013,55400.96,6.2694
+GBR,United Kingdom,Europe,2014,55562.6,6.4567
+GBR,United Kingdom,Europe,2015,56055.98,6.661
+GBR,United Kingdom,Europe,2016,57358.25,6.6059
+GBR,United Kingdom,Europe,2017,59005.28,6.5593
+GBR,United Kingdom,Europe,2018,62848.58,7.0207
+GBR,United Kingdom,Europe,2019,64747.21,6.8319
+GBR,United Kingdom,Europe,2020,66467.77,6.5648
+GBR,United Kingdom,Europe,2021,67769.3,7.3787
+GBR,United Kingdom,Europe,2022,67475.17,6.828
+FRA,France,Europe,1992,31731.71,4.4722
+FRA,France,Europe,1993,32223.97,4.9509
+FRA,France,Europe,1994,33068.45,4.5972
+FRA,France,Europe,1995,33763.66,4.5266
+FRA,France,Europe,1996,34419.31,4.6453
+FRA,France,Europe,1997,35465.55,4.6367
+FRA,France,Europe,1998,36401.96,4.6729
+FRA,France,Europe,1999,37678.13,4.7619
+FRA,France,Europe,2000,36445.52,4.4516
+FRA,France,Europe,2001,38934.21,5.279
+FRA,France,Europe,2002,40569.51,4.4289
+FRA,France,Europe,2003,39717.06,5.1091
+FRA,France,Europe,2004,42475.69,5.6091
+FRA,France,Europe,2005,42606.76,4.7613
+FRA,France,Europe,2006,44148.34,4.9234
+FRA,France,Europe,2007,46145.46,5.0196
+FRA,France,Europe,2008,46088.99,4.8504
+FRA,France,Europe,2009,48232.6,4.9715
+FRA,France,Europe,2010,49111.23,5.7333
+FRA,France,Europe,2011,48190.82,5.496
+FRA,France,Europe,2012,51483.74,4.9989
+FRA,France,Europe,2013,52603.28,5.5115
+FRA,France,Europe,2014,52968.89,5.4139
+FRA,France,Europe,2015,56957.3,5.369
+FRA,France,Europe,2016,55454.88,5.3186
+FRA,France,Europe,2017,58055.54,5.7793
+FRA,France,Europe,2018,,5.38
+FRA,France,Europe,2019,59733.39,5.0368
+FRA,France,Europe,2020,60901.5,5.1465
+FRA,France,Europe,2021,63738.52,5.2059
+FRA,France,Europe,2022,62238.08,5.4497
+JPN,Japan,East Asia,1992,26408.38,7.1419
+JPN,Japan,East Asia,1993,26119.74,8.0882
+JPN,Japan,East Asia,1994,27651.43,7.4004
+JPN,Japan,East Asia,1995,28482.15,7.3943
+JPN,Japan,East Asia,1996,29223.34,7.3712
+JPN,Japan,East Asia,1997,31487.4,8.2885
+JPN,Japan,East Asia,1998,30317.08,6.9983
+JPN,Japan,East Asia,1999,32178.36,
+JPN,Japan,East Asia,2000,34672.72,
+JPN,Japan,East Asia,2001,34179.04,7.7195
+JPN,Japan,East Asia,2002,36512.42,8.1189
+JPN,Japan,East Asia,2003,37115.7,8.0819
+JPN,Japan,East Asia,2004,39582.8,
+JPN,Japan,East Asia,2005,39753.13,8.6024
+JPN,Japan,East Asia,2006,40347.47,8.2481
+JPN,Japan,East Asia,2007,43693.64,8.1994
+JPN,Japan,East Asia,2008,44791.31,8.0459
+JPN,Japan,East Asia,2009,47346.58,8.9428
+JPN,Japan,East Asia,2010,47713.75,9.2001
+JPN,Japan,East Asia,2011,49102.72,9.3838
+JPN,Japan,East Asia,2012,48929.3,9.2042
+JPN,Japan,East Asia,2013,52173.34,
+JPN,Japan,East Asia,2014,53322.41,9.5936
+JPN,Japan,East Asia,2015,54928.2,10.11
+JPN,Japan,East Asia,2016,58481.92,10.0619
+JPN,Japan,East Asia,2017,61104.84,9.25
+JPN,Japan,East Asia,2018,60401.69,10.221
+JPN,Japan,East Asia,2019,63165.94,9.8681
+JPN,Japan,East Asia,2020,64445.4,9.7292
+JPN,Japan,East Asia,2021,70014.05,10.9858
+JPN,Japan,East Asia,2022,71164.3,10.4287
+BRA,Brazil,Latin America,1992,10311.96,1.9528
+BRA,Brazil,Latin America,1993,10328.49,2.1904
+BRA,Brazil,Latin America,1994,10751.54,1.9848
+BRA,Brazil,Latin America,1995,11007.95,1.8996
+BRA,Brazil,Latin America,1996,11133.74,2.1152
+BRA,Brazil,Latin America,1997,11523.18,2.1441
+BRA,Brazil,Latin America,1998,11926.02,2.158
+BRA,Brazil,Latin America,1999,12132.94,2.1354
+BRA,Brazil,Latin America,2000,12073.32,2.1978
+BRA,Brazil,Latin America,2001,12643.15,2.206
+BRA,Brazil,Latin America,2002,13223.03,2.1227
+BRA,Brazil,Latin America,2003,13194.4,2.1202
+BRA,Brazil,Latin America,2004,13997.59,2.1246
+BRA,Brazil,Latin America,2005,14411.07,2.2672
+BRA,Brazil,Latin America,2006,14435.43,2.3265
+BRA,Brazil,Latin America,2007,14750.52,2.3591
+BRA,Brazil,Latin America,2008,14947.95,2.3984
+BRA,Brazil,Latin America,2009,15352.8,2.4247
+BRA,Brazil,Latin America,2010,15753.96,2.2412
+BRA,Brazil,Latin America,2011,15969.81,2.1863
+BRA,Brazil,Latin America,2012,16699.47,2.3481
+BRA,Brazil,Latin America,2013,17479.78,2.347
+BRA,Brazil,Latin America,2014,17187.65,2.3659
+BRA,Brazil,Latin America,2015,18088.25,2.441
+BRA,Brazil,Latin America,2016,18255.5,2.311
+BRA,Brazil,Latin America,2017,18723.15,2.5381
+BRA,Brazil,Latin America,2018,20009.48,2.4107
+BRA,Brazil,Latin America,2019,19728.01,2.5098
+BRA,Brazil,Latin America,2020,21101.02,2.7606
+BRA,Brazil,Latin America,2021,20726.3,2.4199
+BRA,Brazil,Latin America,2022,21642.61,2.5602
+CAN,Canada,North America,1992,33211.54,11.847
+CAN,Canada,North America,1993,34058.3,12.4632
+CAN,Canada,North America,1994,35552.03,14.8063
+CAN,Canada,North America,1995,35863.97,13.4492
+CAN,Canada,North America,1996,38517.54,13.9338
+CAN,Canada,North America,1997,38868.45,14.0435
+CAN,Canada,North America,1998,39329.83,14.4184
+CAN,Canada,North America,1999,40392.38,13.4597
+CAN,Canada,North America,2000,40953.21,13.8204
+CAN,Canada,North America,2001,41490.24,13.6861
+CAN,Canada,North America,2002,42866.17,14.1815
+CAN,Canada,North America,2003,45798.36,14.4176
+CAN,Canada,North America,2004,46356.49,14.6561
+CAN,Canada,North America,2005,46172.0,13.7268
+CAN,Canada,North America,2006,47292.53,14.2265
+CAN,Canada,North America,2007,47574.51,13.6627
+CAN,Canada,North America,2008,49782.97,15.5282
+CAN,Canada,North America,2009,50533.82,13.3626
+CAN,Canada,North America,2010,49591.07,13.338
+CAN,Canada,North America,2011,53827.42,13.8051
+CAN,Canada,North America,2012,55306.7,15.3412
+CAN,Canada,North America,2013,55550.39,13.665
+CAN,Canada,North America,2014,56219.57,14.5477
+CAN,Canada,North America,2015,58790.09,14.1288
+CAN,Canada,North America,2016,61536.88,15.6409
+CAN,Canada,North America,2017,61789.01,15.7644
+CAN,Canada,North America,2018,64392.84,15.7106
+CAN,Canada,North America,2019,65132.82,15.0096
+CAN,Canada,North America,2020,68176.26,15.9727
+CAN,Canada,North America,2021,66439.1,
+CAN,Canada,North America,2022,66416.46,14.9327
+AUS,Australia,Oceania,1992,41286.62,15.7031
+AUS,Australia,Oceania,1993,40377.84,14.9486
+AUS,Australia,Oceania,1994,41693.58,14.3182
+AUS,Australia,Oceania,1995,42047.43,15.1305
+AUS,Australia,Oceania,1996,42566.7,14.5831
+AUS,Australia,Oceania,1997,42469.31,14.7067
+AUS,Australia,Oceania,1998,43388.26,15.4247
+AUS,Australia,Oceania,1999,45713.7,16.121
+AUS,Australia,Oceania,2000,45078.34,14.6106
+AUS,Australia,Oceania,2001,46428.41,15.7447
+AUS,Australia,Oceania,2002,47425.2,15.4792
+AUS,Australia,Oceania,2003,48439.89,15.5542
+AUS,Australia,Oceania,2004,46776.19,14.5236
+AUS,Australia,Oceania,2005,48504.56,14.6829
+AUS,Australia,Oceania,2006,50327.43,15.6898
+AUS,Australia,Oceania,2007,49281.95,15.0669
+AUS,Australia,Oceania,2008,49622.71,13.7068
+AUS,Australia,Oceania,2009,50035.4,16.0518
+AUS,Australia,Oceania,2010,51402.24,15.7737
+AUS,Australia,Oceania,2011,52961.47,15.1043
+AUS,Australia,Oceania,2012,53188.17,13.8887
+AUS,Australia,Oceania,2013,54768.69,16.2712
+AUS,Australia,Oceania,2014,54394.7,15.1595
+AUS,Australia,Oceania,2015,54525.77,15.7355
+AUS,Australia,Oceania,2016,56115.77,13.0003
+AUS,Australia,Oceania,2017,55563.83,13.9363
+AUS,Australia,Oceania,2018,55239.93,15.401
+AUS,Australia,Oceania,2019,57365.3,15.1298
+AUS,Australia,Oceania,2020,58248.17,13.8649
+AUS,Australia,Oceania,2021,57102.22,14.1285
+AUS,Australia,Oceania,2022,59252.03,14.4112
+KOR,South Korea,East Asia,1992,29327.61,10.651
+KOR,South Korea,East Asia,1993,29041.27,10.1425
+KOR,South Korea,East Asia,1994,29350.58,10.6279
+KOR,South Korea,East Asia,1995,30186.68,10.7338
+KOR,South Korea,East Asia,1996,30810.94,10.8798
+KOR,South Korea,East Asia,1997,31802.23,11.6777
+KOR,South Korea,East Asia,1998,32231.28,11.1123
+KOR,South Korea,East Asia,1999,32396.6,10.1253
+KOR,South Korea,East Asia,2000,35172.15,11.4417
+KOR,South Korea,East Asia,2001,34988.17,12.1857
+KOR,South Korea,East Asia,2002,35412.56,11.4022
+KOR,South Korea,East Asia,2003,37154.39,11.9869
+KOR,South Korea,East Asia,2004,36289.8,10.7237
+KOR,South Korea,East Asia,2005,38250.68,11.9793
+KOR,South Korea,East Asia,2006,39243.24,11.8213
+KOR,South Korea,East Asia,2007,38833.33,10.7855
+KOR,South Korea,East Asia,2008,41865.73,11.3255
+KOR,South Korea,East Asia,2009,41695.26,12.214
+KOR,South Korea,East Asia,2010,41940.8,10.8593
+KOR,South Korea,East Asia,2011,42515.08,12.1653
+KOR,South Korea,East Asia,2012,45587.77,12.2365
+KOR,South Korea,East Asia,2013,45425.29,10.7333
+KOR,South Korea,East Asia,2014,45276.13,12.1794
+KOR,South Korea,East Asia,2015,48428.51,12.2508
+KOR,South Korea,East Asia,2016,49281.89,11.3836
+KOR,South Korea,East Asia,2017,49871.11,11.232
+KOR,South Korea,East Asia,2018,50204.56,12.2899
+KOR,South Korea,East Asia,2019,50901.39,11.1717
+KOR,South Korea,East Asia,2020,53513.28,12.0952
+KOR,South Korea,East Asia,2021,53563.32,11.0071
+KOR,South Korea,East Asia,2022,56796.63,12.4337
+MEX,Mexico,Latin America,1992,11341.12,3.0851
+MEX,Mexico,Latin America,1993,11510.67,2.9057
+MEX,Mexico,Latin America,1994,11748.93,2.9139
+MEX,Mexico,Latin America,1995,12355.05,3.2928
+MEX,Mexico,Latin America,1996,12611.16,3.459
+MEX,Mexico,Latin America,1997,13400.47,3.2769
+MEX,Mexico,Latin America,1998,13664.69,3.198
+MEX,Mexico,Latin America,1999,13930.96,3.0189
+MEX,Mexico,Latin America,2000,14303.66,3.539
+MEX,Mexico,Latin America,2001,15169.6,3.6489
+MEX,Mexico,Latin America,2002,15296.21,3.1839
+MEX,Mexico,Latin America,2003,15978.52,3.29
+MEX,Mexico,Latin America,2004,16552.95,3.2101
+MEX,Mexico,Latin America,2005,16335.47,3.4679
+MEX,Mexico,Latin America,2006,18137.65,3.7027
+MEX,Mexico,Latin America,2007,18302.35,3.6264
+MEX,Mexico,Latin America,2008,18738.41,3.388
+MEX,Mexico,Latin America,2009,18987.91,3.8651
+MEX,Mexico,Latin America,2010,19452.81,3.6013
+MEX,Mexico,Latin America,2011,21018.96,3.8512
+MEX,Mexico,Latin America,2012,21249.4,3.7565
+MEX,Mexico,Latin America,2013,22153.04,4.0793
+MEX,Mexico,Latin America,2014,22185.03,3.6058
+MEX,Mexico,Latin America,2015,22415.18,3.9422
+MEX,Mexico,Latin America,2016,24180.8,4.5451
+MEX,Mexico,Latin America,2017,24797.65,4.0233
+MEX,Mexico,Latin America,2018,25681.86,4.1689
+MEX,Mexico,Latin America,2019,26265.67,3.973
+MEX,Mexico,Latin America,2020,27211.8,4.1854
+MEX,Mexico,Latin America,2021,28047.83,4.4112
+MEX,Mexico,Latin America,2022,28960.82,4.0152
+IDN,Indonesia,East Asia,1992,7512.37,1.6827
+IDN,Indonesia,East Asia,1993,7788.12,1.7092
+IDN,Indonesia,East Asia,1994,7570.14,1.5565
+IDN,Indonesia,East Asia,1995,8145.24,1.7049
+IDN,Indonesia,East Asia,1996,8473.68,1.767
+IDN,Indonesia,East Asia,1997,8348.85,1.6666
+IDN,Indonesia,East Asia,1998,8538.04,1.7423
+IDN,Indonesia,East Asia,1999,8778.95,1.8296
+IDN,Indonesia,East Asia,2000,8708.61,1.6042
+IDN,Indonesia,East Asia,2001,9126.94,1.8056
+IDN,Indonesia,East Asia,2002,9512.66,
+IDN,Indonesia,East Asia,2003,9091.45,1.6716
+IDN,Indonesia,East Asia,2004,9862.17,1.7991
+IDN,Indonesia,East Asia,2005,10116.53,1.9265
+IDN,Indonesia,East Asia,2006,10187.17,1.7658
+IDN,Indonesia,East Asia,2007,10260.68,1.6773
+IDN,Indonesia,East Asia,2008,10334.2,1.7287
+IDN,Indonesia,East Asia,2009,11136.67,1.9291
+IDN,Indonesia,East Asia,2010,11038.64,2.0438
+IDN,Indonesia,East Asia,2011,11254.42,1.9652
+IDN,Indonesia,East Asia,2012,12010.97,1.9524
+IDN,Indonesia,East Asia,2013,11737.05,1.8251
+IDN,Indonesia,East Asia,2014,12203.38,1.7679
+IDN,Indonesia,East Asia,2015,12186.18,1.7751
+IDN,Indonesia,East Asia,2016,12835.09,2.0376
+IDN,Indonesia,East Asia,2017,13164.76,2.0341
+IDN,Indonesia,East Asia,2018,13062.47,1.8751
+IDN,Indonesia,East Asia,2019,13485.0,1.9736
+IDN,Indonesia,East Asia,2020,14463.23,1.9424
+IDN,Indonesia,East Asia,2021,14419.5,2.1391
+IDN,Indonesia,East Asia,2022,14612.77,1.9446
+TUR,Turkey,Europe,1992,18733.31,3.3736
+TUR,Turkey,Europe,1993,19440.62,3.73
+TUR,Turkey,Europe,1994,20279.08,3.7458
+TUR,Turkey,Europe,1995,20279.86,3.8727
+TUR,Turkey,Europe,1996,20976.04,4.0156
+TUR,Turkey,Europe,1997,21280.1,3.628
+TUR,Turkey,Europe,1998,21818.02,3.7751
+TUR,Turkey,Europe,1999,22648.61,3.9678
+TUR,Turkey,Europe,2000,22663.11,4.4713
+TUR,Turkey,Europe,2001,23372.98,4.0481
+TUR,Turkey,Europe,2002,23437.45,
+TUR,Turkey,Europe,2003,23891.3,3.7887
+TUR,Turkey,Europe,2004,25322.25,4.1578
+TUR,Turkey,Europe,2005,,3.9454
+TUR,Turkey,Europe,2006,25122.61,4.1047
+TUR,Turkey,Europe,2007,25592.7,3.8994
+TUR,Turkey,Europe,2008,27527.53,4.0704
+TUR,Turkey,Europe,2009,,3.6548
+TUR,Turkey,Europe,2010,26878.19,4.2637
+TUR,Turkey,Europe,2011,27976.97,4.6319
+TUR,Turkey,Europe,2012,29780.43,4.6603
+TUR,Turkey,Europe,2013,30086.64,4.33
+TUR,Turkey,Europe,2014,29601.54,4.114
+TUR,Turkey,Europe,2015,31146.71,4.428
+TUR,Turkey,Europe,2016,30647.09,4.0926
+TUR,Turkey,Europe,2017,31954.35,4.1871
+TUR,Turkey,Europe,2018,32010.65,4.5815
+TUR,Turkey,Europe,2019,33202.1,4.0428
+TUR,Turkey,Europe,2020,35354.48,4.74
+TUR,Turkey,Europe,2021,34853.08,3.9372
+TUR,Turkey,Europe,2022,35148.91,3.9553
+SAU,Saudi Arabia,Middle East,1992,34738.06,14.151
+SAU,Saudi Arabia,Middle East,1993,34063.95,14.6317
+SAU,Saudi Arabia,Middle East,1994,38410.26,15.3101
+SAU,Saudi Arabia,Middle East,1995,38453.51,16.2439
+SAU,Saudi Arabia,Middle East,1996,40117.32,15.864
+SAU,Saudi Arabia,Middle East,1997,40060.5,15.5918
+SAU,Saudi Arabia,Middle East,1998,41637.72,17.2832
+SAU,Saudi Arabia,Middle East,1999,42242.7,14.2106
+SAU,Saudi Arabia,Middle East,2000,44421.77,16.5066
+SAU,Saudi Arabia,Middle East,2001,45311.57,15.2742
+SAU,Saudi Arabia,Middle East,2002,45597.71,17.0886
+SAU,Saudi Arabia,Middle East,2003,46180.03,16.792
+SAU,Saudi Arabia,Middle East,2004,48623.91,16.2314
+SAU,Saudi Arabia,Middle East,2005,49196.28,15.9759
+SAU,Saudi Arabia,Middle East,2006,51441.82,17.3213
+SAU,Saudi Arabia,Middle East,2007,52408.68,16.3224
+SAU,Saudi Arabia,Middle East,2008,51171.39,17.1372
+SAU,Saudi Arabia,Middle East,2009,56762.79,18.4114
+SAU,Saudi Arabia,Middle East,2010,59688.96,18.1388
+SAU,Saudi Arabia,Middle East,2011,60502.8,17.7145
+SAU,Saudi Arabia,Middle East,2012,59525.4,18.0188
+SAU,Saudi Arabia,Middle East,2013,64204.63,18.4241
+SAU,Saudi Arabia,Middle East,2014,61899.54,18.8556
+SAU,Saudi Arabia,Middle East,2015,65523.88,18.8672
+SAU,Saudi Arabia,Middle East,2016,66428.79,18.6856
+SAU,Saudi Arabia,Middle East,2017,67329.31,20.3927
+SAU,Saudi Arabia,Middle East,2018,72759.32,19.4763
+SAU,Saudi Arabia,Middle East,2019,74426.07,18.9061
+SAU,Saudi Arabia,Middle East,2020,76749.35,19.4226
+SAU,Saudi Arabia,Middle East,2021,76636.05,18.6228
+SAU,Saudi Arabia,Middle East,2022,80062.48,19.9649
+ARG,Argentina,Latin America,1992,12341.14,3.2686
+ARG,Argentina,Latin America,1993,13323.0,3.8039
+ARG,Argentina,Latin America,1994,13479.77,3.2775
+ARG,Argentina,Latin America,1995,13904.74,3.605
+ARG,Argentina,Latin America,1996,14684.03,3.4512
+ARG,Argentina,Latin America,1997,15148.72,3.5089
+ARG,Argentina,Latin America,1998,15492.35,3.6309
+ARG,Argentina,Latin America,1999,15599.78,3.3563
+ARG,Argentina,Latin America,2000,16626.42,3.9261
+ARG,Argentina,Latin America,2001,16882.58,3.6367
+ARG,Argentina,Latin America,2002,16880.93,3.8252
+ARG,Argentina,Latin America,2003,17939.21,3.6761
+ARG,Argentina,Latin America,2004,18733.38,3.5531
+ARG,Argentina,Latin America,2005,18623.65,3.6223
+ARG,Argentina,Latin America,2006,19811.75,3.9089
+ARG,Argentina,Latin America,2007,20496.4,4.1518
+ARG,Argentina,Latin America,2008,21169.56,4.374
+ARG,Argentina,Latin America,2009,22038.97,4.0263
+ARG,Argentina,Latin America,2010,22010.55,3.9886
+ARG,Argentina,Latin America,2011,23288.86,4.0378
+ARG,Argentina,Latin America,2012,24049.65,
+ARG,Argentina,Latin America,2013,24003.34,4.362
+ARG,Argentina,Latin America,2014,25426.85,4.6686
+ARG,Argentina,Latin America,2015,26039.88,4.2227
+ARG,Argentina,Latin America,2016,26324.55,4.0546
+ARG,Argentina,Latin America,2017,28279.57,4.8497
+ARG,Argentina,Latin America,2018,28577.0,4.4029
+ARG,Argentina,Latin America,2019,29596.33,4.7748
+ARG,Argentina,Latin America,2020,29941.94,4.5508
+ARG,Argentina,Latin America,2021,32100.41,4.793
+ARG,Argentina,Latin America,2022,30779.79,4.6487
+ZAF,South Africa,Africa,1992,9384.33,7.2025
+ZAF,South Africa,Africa,1993,9562.11,7.8967
+ZAF,South Africa,Africa,1994,9784.28,7.2298
+ZAF,South Africa,Africa,1995,9740.11,7.2682
+ZAF,South Africa,Africa,1996,10291.62,7.205
+ZAF,South Africa,Africa,1997,10500.01,7.238
+ZAF,South Africa,Africa,1998,10739.48,6.9965
+ZAF,South Africa,Africa,1999,,
+ZAF,South Africa,Africa,2000,11021.88,7.3775
+ZAF,South Africa,Africa,2001,11486.51,6.9521
+ZAF,South Africa,Africa,2002,12009.53,7.8824
+ZAF,South Africa,Africa,2003,12128.32,8.2043
+ZAF,South Africa,Africa,2004,12656.77,7.6545
+ZAF,South Africa,Africa,2005,12612.33,7.9376
+ZAF,South Africa,Africa,2006,13494.84,7.9362
+ZAF,South Africa,Africa,2007,13766.69,8.8478
+ZAF,South Africa,Africa,2008,14359.84,7.4745
+ZAF,South Africa,Africa,2009,14286.27,8.1574
+ZAF,South Africa,Africa,2010,14915.52,8.4494
+ZAF,South Africa,Africa,2011,15438.85,8.4559
+ZAF,South Africa,Africa,2012,15730.61,8.9402
+ZAF,South Africa,Africa,2013,16251.05,
+ZAF,South Africa,Africa,2014,16639.33,8.6347
+ZAF,South Africa,Africa,2015,16430.58,8.5966
+ZAF,South Africa,Africa,2016,17174.24,9.1416
+ZAF,South Africa,Africa,2017,18168.54,8.4493
+ZAF,South Africa,Africa,2018,18853.79,9.7698
+ZAF,South Africa,Africa,2019,18925.55,8.9856
+ZAF,South Africa,Africa,2020,19864.08,9.8891
+ZAF,South Africa,Africa,2021,19426.35,8.5512
+ZAF,South Africa,Africa,2022,20467.68,9.1318
+POL,Poland,Europe,1992,20555.94,8.1576
+POL,Poland,Europe,1993,19920.78,7.0774
+POL,Poland,Europe,1994,20681.39,7.2703
+POL,Poland,Europe,1995,21460.58,7.7719
+POL,Poland,Europe,1996,22687.72,7.8347
+POL,Poland,Europe,1997,23048.94,7.6967
+POL,Poland,Europe,1998,23634.31,8.5573
+POL,Poland,Europe,1999,24786.6,7.9525
+POL,Poland,Europe,2000,25095.96,8.2585
+POL,Poland,Europe,2001,25266.08,8.0908
+POL,Poland,Europe,2002,26966.38,8.5353
+POL,Poland,Europe,2003,26965.63,7.9894
+POL,Poland,Europe,2004,27091.53,8.4978
+POL,Poland,Europe,2005,30228.27,8.3573
+POL,Poland,Europe,2006,30502.35,9.6151
+POL,Poland,Europe,2007,30415.94,8.5689
+POL,Poland,Europe,2008,31748.21,8.9964
+POL,Poland,Europe,2009,32701.19,8.7108
+POL,Poland,Europe,2010,33857.83,8.8463
+POL,Poland,Europe,2011,34666.35,9.057
+POL,Poland,Europe,2012,34166.84,9.4682
+POL,Poland,Europe,2013,35991.82,9.7765
+POL,Poland,Europe,2014,38275.67,9.54
+POL,Poland,Europe,2015,38962.69,9.7673
+POL,Poland,Europe,2016,39516.72,9.3849
+POL,Poland,Europe,2017,41306.94,8.3366
+POL,Poland,Europe,2018,41983.38,9.4842
+POL,Poland,Europe,2019,42549.96,9.863
+POL,Poland,Europe,2020,43907.75,10.2118
+POL,Poland,Europe,2021,46626.84,10.3619
+POL,Poland,Europe,2022,47755.98,10.4337
+NLD,Netherlands,Europe,1992,36403.57,8.4745
+NLD,Netherlands,Europe,1993,37424.91,8.0499
+NLD,Netherlands,Europe,1994,37304.81,7.6982
+NLD,Netherlands,Europe,1995,38957.02,7.392
+NLD,Netherlands,Europe,1996,40374.75,8.5255
+NLD,Netherlands,Europe,1997,42151.89,7.7669
+NLD,Netherlands,Europe,1998,41924.19,8.6532
+NLD,Netherlands,Europe,1999,43633.73,8.7251
+NLD,Netherlands,Europe,2000,43970.16,9.0056
+NLD,Netherlands,Europe,2001,45182.49,7.3
+NLD,Netherlands,Europe,2002,47901.77,8.8485
+NLD,Netherlands,Europe,2003,48629.59,8.9722
+NLD,Netherlands,Europe,2004,51047.86,9.1514
+NLD,Netherlands,Europe,2005,51473.36,8.631
+NLD,Netherlands,Europe,2006,53071.9,
+NLD,Netherlands,Europe,2007,,9.1756
+NLD,Netherlands,Europe,2008,56832.93,9.6861
+NLD,Netherlands,Europe,2009,57297.61,8.6524
+NLD,Netherlands,Europe,2010,59015.83,9.4777
+NLD,Netherlands,Europe,2011,61970.11,9.7721
+NLD,Netherlands,Europe,2012,63389.96,8.5329
+NLD,Netherlands,Europe,2013,65187.89,10.2136
+NLD,Netherlands,Europe,2014,68942.4,10.0651
+NLD,Netherlands,Europe,2015,69483.17,10.2872
+NLD,Netherlands,Europe,2016,72952.26,10.219
+NLD,Netherlands,Europe,2017,74168.62,9.9569
+NLD,Netherlands,Europe,2018,73588.76,9.8516
+NLD,Netherlands,Europe,2019,79881.58,10.9009
+NLD,Netherlands,Europe,2020,78046.81,10.644
+NLD,Netherlands,Europe,2021,80417.98,10.6041
+NLD,Netherlands,Europe,2022,83031.77,9.9278
+CHE,Switzerland,Europe,1992,42226.86,3.6448
+CHE,Switzerland,Europe,1993,43953.01,3.425
+CHE,Switzerland,Europe,1994,45168.7,3.4576
+CHE,Switzerland,Europe,1995,49200.43,
+CHE,Switzerland,Europe,1996,48461.67,3.8455
+CHE,Switzerland,Europe,1997,50769.98,3.9671
+CHE,Switzerland,Europe,1998,52411.63,3.9908
+CHE,Switzerland,Europe,1999,53537.49,4.2069
+CHE,Switzerland,Europe,2000,55385.28,3.9574
+CHE,Switzerland,Europe,2001,57234.64,4.048
+CHE,Switzerland,Europe,2002,57073.96,3.791
+CHE,Switzerland,Europe,2003,60762.62,3.765
+CHE,Switzerland,Europe,2004,62936.81,4.1956
+CHE,Switzerland,Europe,2005,63382.26,4.0013
+CHE,Switzerland,Europe,2006,68902.6,4.4539
+CHE,Switzerland,Europe,2007,70084.32,4.5943
+CHE,Switzerland,Europe,2008,70540.8,4.053
+CHE,Switzerland,Europe,2009,75552.58,4.4665
+CHE,Switzerland,Europe,2010,75267.84,4.9147
+CHE,Switzerland,Europe,2011,76575.44,4.4774
+CHE,Switzerland,Europe,2012,81394.08,4.5026
+CHE,Switzerland,Europe,2013,80764.68,4.8733
+CHE,Switzerland,Europe,2014,84772.53,4.5615
+CHE,Switzerland,Europe,2015,89348.06,4.8901
+CHE,Switzerland,Europe,2016,90182.53,4.8424
+CHE,Switzerland,Europe,2017,96569.79,4.7545
+CHE,Switzerland,Europe,2018,100249.63,4.9995
+CHE,Switzerland,Europe,2019,106474.58,5.109
+CHE,Switzerland,Europe,2020,104101.28,5.1469
+CHE,Switzerland,Europe,2021,108951.8,
+CHE,Switzerland,Europe,2022,110479.76,5.2943
+SWE,Sweden,Europe,1992,38320.35,3.6487
+SWE,Sweden,Europe,1993,38928.94,3.6668
+SWE,Sweden,Europe,1994,39350.43,3.6049
+SWE,Sweden,Europe,1995,41857.91,3.5067
+SWE,Sweden,Europe,1996,42538.18,3.4931
+SWE,Sweden,Europe,1997,43401.8,3.8732
+SWE,Sweden,Europe,1998,42775.57,3.7167
+SWE,Sweden,Europe,1999,45203.27,4.3088
+SWE,Sweden,Europe,2000,44192.51,3.6367
+SWE,Sweden,Europe,2001,45405.4,3.8019
+SWE,Sweden,Europe,2002,48572.98,3.7047
+SWE,Sweden,Europe,2003,48754.12,4.1335
+SWE,Sweden,Europe,2004,49452.53,3.4713
+SWE,Sweden,Europe,2005,51203.33,4.2668
+SWE,Sweden,Europe,2006,51049.8,3.6257
+SWE,Sweden,Europe,2007,53678.52,
+SWE,Sweden,Europe,2008,54015.57,3.9068
+SWE,Sweden,Europe,2009,,3.8772
+SWE,Sweden,Europe,2010,55817.9,4.1931
+SWE,Sweden,Europe,2011,57010.32,3.7359
+SWE,Sweden,Europe,2012,58853.66,4.0283
+SWE,Sweden,Europe,2013,61574.24,4.089
+SWE,Sweden,Europe,2014,64189.96,4.3127
+SWE,Sweden,Europe,2015,62779.67,4.2745
+SWE,Sweden,Europe,2016,67102.79,4.4857
+SWE,Sweden,Europe,2017,64749.7,4.1131
+SWE,Sweden,Europe,2018,68579.37,4.4546
+SWE,Sweden,Europe,2019,69527.4,4.2511
+SWE,Sweden,Europe,2020,73971.97,4.6177
+SWE,Sweden,Europe,2021,73597.48,4.285
+SWE,Sweden,Europe,2022,73008.3,4.4344
+NOR,Norway,Europe,1992,46950.29,7.2688
+NOR,Norway,Europe,1993,48989.07,7.4809
+NOR,Norway,Europe,1994,48221.94,6.8964
+NOR,Norway,Europe,1995,51659.29,7.3122
+NOR,Norway,Europe,1996,53363.04,7.5445
+NOR,Norway,Europe,1997,51860.64,7.5734
+NOR,Norway,Europe,1998,55176.4,7.0995
+NOR,Norway,Europe,1999,58545.01,7.8892
+NOR,Norway,Europe,2000,60420.05,7.8442
+NOR,Norway,Europe,2001,60230.67,7.7036
+NOR,Norway,Europe,2002,61158.26,7.1533
+NOR,Norway,Europe,2003,63430.97,8.3933
+NOR,Norway,Europe,2004,65385.9,7.2184
+NOR,Norway,Europe,2005,67788.31,7.7667
+NOR,Norway,Europe,2006,71546.01,8.8238
+NOR,Norway,Europe,2007,71393.63,8.2198
+NOR,Norway,Europe,2008,74577.49,8.2618
+NOR,Norway,Europe,2009,75856.25,7.9229
+NOR,Norway,Europe,2010,75566.23,7.821
+NOR,Norway,Europe,2011,80539.65,7.8887
+NOR,Norway,Europe,2012,83350.01,8.6312
+NOR,Norway,Europe,2013,84474.94,8.4801
+NOR,Norway,Europe,2014,85616.84,
+NOR,Norway,Europe,2015,91889.49,8.4383
+NOR,Norway,Europe,2016,90957.55,8.3912
+NOR,Norway,Europe,2017,96772.07,9.2393
+NOR,Norway,Europe,2018,100560.59,9.7943
+NOR,Norway,Europe,2019,98265.89,9.2338
+NOR,Norway,Europe,2020,106620.02,9.2773
+NOR,Norway,Europe,2021,107210.94,9.2945
+NOR,Norway,Europe,2022,110070.93,9.854
+DNK,Denmark,Europe,1992,36058.07,4.4257
+DNK,Denmark,Europe,1993,36762.81,4.8081
+DNK,Denmark,Europe,1994,37307.54,4.5572
+DNK,Denmark,Europe,1995,38216.36,4.7559
+DNK,Denmark,Europe,1996,39486.16,4.6956
+DNK,Denmark,Europe,1997,41606.0,5.0897
+DNK,Denmark,Europe,1998,43210.67,5.1698
+DNK,Denmark,Europe,1999,43167.38,4.8059
+DNK,Denmark,Europe,2000,45777.29,5.4345
+DNK,Denmark,Europe,2001,49575.55,5.4745
+DNK,Denmark,Europe,2002,49592.64,4.9939
+DNK,Denmark,Europe,2003,51236.93,5.9751
+DNK,Denmark,Europe,2004,51442.26,5.2242
+DNK,Denmark,Europe,2005,54936.38,5.5737
+DNK,Denmark,Europe,2006,53719.79,5.2933
+DNK,Denmark,Europe,2007,59396.7,5.683
+DNK,Denmark,Europe,2008,59320.9,5.9302
+DNK,Denmark,Europe,2009,62087.76,5.7309
+DNK,Denmark,Europe,2010,62972.25,6.7517
+DNK,Denmark,Europe,2011,67560.49,6.2069
+DNK,Denmark,Europe,2012,68873.12,6.0422
+DNK,Denmark,Europe,2013,70885.74,6.0722
+DNK,Denmark,Europe,2014,71569.89,6.2358
+DNK,Denmark,Europe,2015,74785.42,6.3834
+DNK,Denmark,Europe,2016,78745.53,6.5699
+DNK,Denmark,Europe,2017,,6.2321
+DNK,Denmark,Europe,2018,82645.85,6.8308
+DNK,Denmark,Europe,2019,87533.93,6.4714
+DNK,Denmark,Europe,2020,86632.78,7.4407
+DNK,Denmark,Europe,2021,92637.92,6.3832
+DNK,Denmark,Europe,2022,93872.25,7.1914
+FIN,Finland,Europe,1992,29704.84,6.5119
+FIN,Finland,Europe,1993,28106.6,6.0837
+FIN,Finland,Europe,1994,30062.24,6.3396
+FIN,Finland,Europe,1995,31201.61,6.285
+FIN,Finland,Europe,1996,33460.78,6.5914
+FIN,Finland,Europe,1997,33853.43,6.6403
+FIN,Finland,Europe,1998,37161.68,6.6548
+FIN,Finland,Europe,1999,36719.34,7.542
+FIN,Finland,Europe,2000,37767.81,7.4145
+FIN,Finland,Europe,2001,38128.54,6.881
+FIN,Finland,Europe,2002,39892.01,7.0808
+FIN,Finland,Europe,2003,41936.18,7.3042
+FIN,Finland,Europe,2004,44203.44,6.6863
+FIN,Finland,Europe,2005,44457.27,7.5155
+FIN,Finland,Europe,2006,44878.55,7.6446
+FIN,Finland,Europe,2007,47647.62,7.5814
+FIN,Finland,Europe,2008,,8.4515
+FIN,Finland,Europe,2009,,7.5735
+FIN,Finland,Europe,2010,54205.44,8.4031
+FIN,Finland,Europe,2011,55967.98,8.8496
+FIN,Finland,Europe,2012,57520.37,8.9108
+FIN,Finland,Europe,2013,61151.76,8.8861
+FIN,Finland,Europe,2014,61932.89,8.7726
+FIN,Finland,Europe,2015,65953.34,9.3566
+FIN,Finland,Europe,2016,64658.95,8.8333
+FIN,Finland,Europe,2017,67198.64,8.5249
+FIN,Finland,Europe,2018,70247.45,8.3844
+FIN,Finland,Europe,2019,71959.81,9.7716
+FIN,Finland,Europe,2020,74883.59,9.6227
+FIN,Finland,Europe,2021,78834.98,9.7284
+FIN,Finland,Europe,2022,82326.51,9.2102
+BEL,Belgium,Europe,1992,32196.92,7.0818
+BEL,Belgium,Europe,1993,34393.08,7.2364
+BEL,Belgium,Europe,1994,34583.88,7.2243
+BEL,Belgium,Europe,1995,34872.2,7.3136
+BEL,Belgium,Europe,1996,36809.89,7.3919
+BEL,Belgium,Europe,1997,38357.58,7.693
+BEL,Belgium,Europe,1998,39713.84,
+BEL,Belgium,Europe,1999,40180.84,7.6268
+BEL,Belgium,Europe,2000,42765.03,8.0021
+BEL,Belgium,Europe,2001,43925.44,7.978
+BEL,Belgium,Europe,2002,44995.21,7.9777
+BEL,Belgium,Europe,2003,46268.42,7.8158
+BEL,Belgium,Europe,2004,48117.59,8.2991
+BEL,Belgium,Europe,2005,46675.29,7.9903
+BEL,Belgium,Europe,2006,47371.56,8.097
+BEL,Belgium,Europe,2007,51756.43,9.1147
+BEL,Belgium,Europe,2008,51808.31,9.0342
+BEL,Belgium,Europe,2009,53869.31,8.0291
+BEL,Belgium,Europe,2010,54904.89,8.5992
+BEL,Belgium,Europe,2011,56066.24,
+BEL,Belgium,Europe,2012,59133.54,9.3294
+BEL,Belgium,Europe,2013,61488.65,8.802
+BEL,Belgium,Europe,2014,62913.29,8.9432
+BEL,Belgium,Europe,2015,62576.88,9.5148
+BEL,Belgium,Europe,2016,68012.94,9.1129
+BEL,Belgium,Europe,2017,67223.71,8.4883
+BEL,Belgium,Europe,2018,70692.18,9.5059
+BEL,Belgium,Europe,2019,70712.04,9.2377
+BEL,Belgium,Europe,2020,75183.41,9.1865
+BEL,Belgium,Europe,2021,75824.08,9.2924
+BEL,Belgium,Europe,2022,77187.32,9.329
+AUT,Austria,Europe,1992,39824.14,6.7164
+AUT,Austria,Europe,1993,40669.21,6.9957
+AUT,Austria,Europe,1994,40437.29,6.3931
+AUT,Austria,Europe,1995,41493.06,6.3634
+AUT,Austria,Europe,1996,43377.3,6.7435
+AUT,Austria,Europe,1997,43576.44,6.6011
+AUT,Austria,Europe,1998,44038.42,6.9733
+AUT,Austria,Europe,1999,45438.55,6.6111
+AUT,Austria,Europe,2000,45826.5,6.6409
+AUT,Austria,Europe,2001,46583.62,6.7167
+AUT,Austria,Europe,2002,49271.46,7.4361
+AUT,Austria,Europe,2003,48700.03,6.3667
+AUT,Austria,Europe,2004,48878.4,7.2593
+AUT,Austria,Europe,2005,49947.62,7.617
+AUT,Austria,Europe,2006,51839.98,6.9788
+AUT,Austria,Europe,2007,53383.42,7.0855
+AUT,Austria,Europe,2008,54676.55,7.8444
+AUT,Austria,Europe,2009,53859.26,6.5674
+AUT,Austria,Europe,2010,54702.37,6.7124
+AUT,Austria,Europe,2011,54736.11,6.8367
+AUT,Austria,Europe,2012,55129.98,7.0661
+AUT,Austria,Europe,2013,56517.04,6.9598
+AUT,Austria,Europe,2014,57707.43,7.2461
+AUT,Austria,Europe,2015,59817.13,7.071
+AUT,Austria,Europe,2016,61003.18,7.6644
+AUT,Austria,Europe,2017,58885.73,6.7611
+AUT,Austria,Europe,2018,61296.27,6.8559
+AUT,Austria,Europe,2019,60751.65,6.2728
+AUT,Austria,Europe,2020,61173.76,6.7674
+AUT,Austria,Europe,2021,65056.31,7.6874
+AUT,Austria,Europe,2022,67068.4,6.5206
+ESP,Spain,Europe,1992,27353.59,4.6565
+ESP,Spain,Europe,1993,26896.23,5.045
+ESP,Spain,Europe,1994,26474.35,4.812
+ESP,Spain,Europe,1995,27616.68,4.945
+ESP,Spain,Europe,1996,27560.88,4.8598
+ESP,Spain,Europe,1997,29175.72,5.3222
+ESP,Spain,Europe,1998,30886.18,5.325
+ESP,Spain,Europe,1999,31387.92,5.2543
+ESP,Spain,Europe,2000,31386.9,5.2223
+ESP,Spain,Europe,2001,32431.74,5.5574
+ESP,Spain,Europe,2002,32881.21,5.0878
+ESP,Spain,Europe,2003,34753.74,5.7195
+ESP,Spain,Europe,2004,36082.34,5.3986
+ESP,Spain,Europe,2005,35835.1,5.7625
+ESP,Spain,Europe,2006,36647.97,5.6931
+ESP,Spain,Europe,2007,37865.74,5.6764
+ESP,Spain,Europe,2008,38170.84,5.5845
+ESP,Spain,Europe,2009,37802.37,5.808
+ESP,Spain,Europe,2010,41884.32,5.5471
+ESP,Spain,Europe,2011,43880.92,6.2972
+ESP,Spain,Europe,2012,42588.12,5.6178
+ESP,Spain,Europe,2013,43804.61,5.9282
+ESP,Spain,Europe,2014,45450.87,5.378
+ESP,Spain,Europe,2015,47173.64,6.2936
+ESP,Spain,Europe,2016,48642.22,6.2501
+ESP,Spain,Europe,2017,50076.01,6.375
+ESP,Spain,Europe,2018,51546.75,6.1712
+ESP,Spain,Europe,2019,52759.88,6.7405
+ESP,Spain,Europe,2020,54767.39,6.0548
+ESP,Spain,Europe,2021,55688.35,6.4678
+ESP,Spain,Europe,2022,56956.35,5.8153
+ITA,Italy,Europe,1992,28115.41,5.6798
+ITA,Italy,Europe,1993,29218.36,4.8652
+ITA,Italy,Europe,1994,29479.37,5.5956
+ITA,Italy,Europe,1995,29796.12,5.5019
+ITA,Italy,Europe,1996,29848.96,4.4943
+ITA,Italy,Europe,1997,32169.83,5.2786
+ITA,Italy,Europe,1998,30880.21,5.0976
+ITA,Italy,Europe,1999,32845.2,5.495
+ITA,Italy,Europe,2000,31776.2,5.0294
+ITA,Italy,Europe,2001,34129.1,5.532
+ITA,Italy,Europe,2002,34130.89,5.3011
+ITA,Italy,Europe,2003,35100.44,5.4688
+ITA,Italy,Europe,2004,37099.84,5.473
+ITA,Italy,Europe,2005,35998.76,5.2074
+ITA,Italy,Europe,2006,39099.26,5.4224
+ITA,Italy,Europe,2007,37631.76,5.3485
+ITA,Italy,Europe,2008,39271.95,5.4195
+ITA,Italy,Europe,2009,38961.56,5.5677
+ITA,Italy,Europe,2010,41176.06,5.8371
+ITA,Italy,Europe,2011,42009.05,6.1424
+ITA,Italy,Europe,2012,43372.63,5.8922
+ITA,Italy,Europe,2013,44648.59,5.8316
+ITA,Italy,Europe,2014,44326.47,5.7934
+ITA,Italy,Europe,2015,43674.47,5.6295
+ITA,Italy,Europe,2016,46264.89,5.8835
+ITA,Italy,Europe,2017,48307.84,6.0533
+ITA,Italy,Europe,2018,47613.11,6.0138
+ITA,Italy,Europe,2019,50943.77,6.31
+ITA,Italy,Europe,2020,49026.3,5.9321
+ITA,Italy,Europe,2021,50172.68,5.7189
+ITA,Italy,Europe,2022,52824.38,6.0289
+PRT,Portugal,Europe,1992,21051.41,
+PRT,Portugal,Europe,1993,20726.47,4.014
+PRT,Portugal,Europe,1994,21462.12,
+PRT,Portugal,Europe,1995,22865.09,4.0939
+PRT,Portugal,Europe,1996,22926.4,4.0874
+PRT,Portugal,Europe,1997,23847.89,4.2508
+PRT,Portugal,Europe,1998,24222.41,4.1346
+PRT,Portugal,Europe,1999,24788.25,4.0354
+PRT,Portugal,Europe,2000,25482.14,4.1967
+PRT,Portugal,Europe,2001,26156.13,3.6794
+PRT,Portugal,Europe,2002,27229.89,4.073
+PRT,Portugal,Europe,2003,28326.43,4.2784
+PRT,Portugal,Europe,2004,29386.06,4.2287
+PRT,Portugal,Europe,2005,28967.1,4.3698
+PRT,Portugal,Europe,2006,30651.24,4.2345
+PRT,Portugal,Europe,2007,32340.11,4.4218
+PRT,Portugal,Europe,2008,32315.09,4.8302
+PRT,Portugal,Europe,2009,34147.55,4.4796
+PRT,Portugal,Europe,2010,34589.76,4.4544
+PRT,Portugal,Europe,2011,36519.36,5.0854
+PRT,Portugal,Europe,2012,38334.73,5.5833
+PRT,Portugal,Europe,2013,37607.6,5.0426
+PRT,Portugal,Europe,2014,37776.66,4.8777
+PRT,Portugal,Europe,2015,40758.26,4.8114
+PRT,Portugal,Europe,2016,41075.21,5.2543
+PRT,Portugal,Europe,2017,43283.2,5.6071
+PRT,Portugal,Europe,2018,45558.63,4.873
+PRT,Portugal,Europe,2019,45053.08,4.9344
+PRT,Portugal,Europe,2020,47621.08,5.4288
+PRT,Portugal,Europe,2021,47378.26,5.0612
+PRT,Portugal,Europe,2022,51045.04,
+GRC,Greece,Europe,1992,21005.42,7.015
+GRC,Greece,Europe,1993,22222.55,6.1667
+GRC,Greece,Europe,1994,22184.96,6.8047
+GRC,Greece,Europe,1995,21695.61,6.6729
+GRC,Greece,Europe,1996,22967.25,6.286
+GRC,Greece,Europe,1997,23384.41,6.6359
+GRC,Greece,Europe,1998,,6.5668
+GRC,Greece,Europe,1999,23380.59,6.1833
+GRC,Greece,Europe,2000,24035.38,6.4825
+GRC,Greece,Europe,2001,24837.61,7.2199
+GRC,Greece,Europe,2002,24989.13,6.7286
+GRC,Greece,Europe,2003,,6.8178
+GRC,Greece,Europe,2004,25153.82,6.8648
+GRC,Greece,Europe,2005,26615.68,6.6519
+GRC,Greece,Europe,2006,25935.79,6.4338
+GRC,Greece,Europe,2007,25955.66,6.8605
+GRC,Greece,Europe,2008,26838.2,6.3573
+GRC,Greece,Europe,2009,28375.13,5.8627
+GRC,Greece,Europe,2010,28715.68,6.7413
+GRC,Greece,Europe,2011,29376.45,6.3598
+GRC,Greece,Europe,2012,29026.17,6.2462
+GRC,Greece,Europe,2013,29910.36,6.9793
+GRC,Greece,Europe,2014,30758.72,6.6822
+GRC,Greece,Europe,2015,31419.61,6.3828
+GRC,Greece,Europe,2016,30550.91,6.2065
+GRC,Greece,Europe,2017,31160.67,6.2547
+GRC,Greece,Europe,2018,32203.44,6.7893
+GRC,Greece,Europe,2019,31277.97,6.7054
+GRC,Greece,Europe,2020,33492.29,6.8741
+GRC,Greece,Europe,2021,32039.31,6.3634
+GRC,Greece,Europe,2022,33891.46,
+NGA,Nigeria,Africa,1992,3968.09,0.5538
+NGA,Nigeria,Africa,1993,4079.31,0.6069
+NGA,Nigeria,Africa,1994,4016.02,0.587
+NGA,Nigeria,Africa,1995,4113.39,0.5807
+NGA,Nigeria,Africa,1996,4014.06,0.5314
+NGA,Nigeria,Africa,1997,4130.11,0.5198
+NGA,Nigeria,Africa,1998,4240.22,0.5585
+NGA,Nigeria,Africa,1999,4459.13,0.5999
+NGA,Nigeria,Africa,2000,4543.48,0.6343
+NGA,Nigeria,Africa,2001,4791.72,0.5977
+NGA,Nigeria,Africa,2002,4623.38,0.6522
+NGA,Nigeria,Africa,2003,4922.92,0.6399
+NGA,Nigeria,Africa,2004,4847.61,0.6191
+NGA,Nigeria,Africa,2005,5013.93,0.5989
+NGA,Nigeria,Africa,2006,5091.63,0.617
+NGA,Nigeria,Africa,2007,5357.87,0.6915
+NGA,Nigeria,Africa,2008,5261.26,0.6093
+NGA,Nigeria,Africa,2009,5398.68,0.6217
+NGA,Nigeria,Africa,2010,5244.39,0.5836
+NGA,Nigeria,Africa,2011,5861.56,0.6106
+NGA,Nigeria,Africa,2012,5692.16,0.596
+NGA,Nigeria,Africa,2013,5835.06,0.5785
+NGA,Nigeria,Africa,2014,5905.33,0.6294
+NGA,Nigeria,Africa,2015,6138.22,0.6347
+NGA,Nigeria,Africa,2016,6382.34,0.6527
+NGA,Nigeria,Africa,2017,6504.16,0.7167
+NGA,Nigeria,Africa,2018,6573.01,0.5982
+NGA,Nigeria,Africa,2019,6624.13,0.6396
+NGA,Nigeria,Africa,2020,6933.13,0.6456
+NGA,Nigeria,Africa,2021,6740.35,0.6153
+NGA,Nigeria,Africa,2022,6812.66,0.5429
+ETH,Ethiopia,Africa,1992,1275.04,0.0784
+ETH,Ethiopia,Africa,1993,1365.03,0.0949
+ETH,Ethiopia,Africa,1994,1370.84,0.0802
+ETH,Ethiopia,Africa,1995,1401.42,0.0852
+ETH,Ethiopia,Africa,1996,1465.62,0.0835
+ETH,Ethiopia,Africa,1997,,0.0814
+ETH,Ethiopia,Africa,1998,1605.79,0.0986
+ETH,Ethiopia,Africa,1999,1612.81,0.091
+ETH,Ethiopia,Africa,2000,1734.06,0.0984
+ETH,Ethiopia,Africa,2001,1729.75,0.093
+ETH,Ethiopia,Africa,2002,1821.04,0.1063
+ETH,Ethiopia,Africa,2003,1859.24,0.0952
+ETH,Ethiopia,Africa,2004,1933.62,0.0989
+ETH,Ethiopia,Africa,2005,2012.96,0.1001
+ETH,Ethiopia,Africa,2006,2121.71,0.0988
+ETH,Ethiopia,Africa,2007,2162.27,0.106
+ETH,Ethiopia,Africa,2008,2184.11,0.1054
+ETH,Ethiopia,Africa,2009,2320.61,0.0941
+ETH,Ethiopia,Africa,2010,2332.92,0.1149
+ETH,Ethiopia,Africa,2011,2433.8,0.1019
+ETH,Ethiopia,Africa,2012,2457.43,0.1022
+ETH,Ethiopia,Africa,2013,2633.56,0.1052
+ETH,Ethiopia,Africa,2014,2769.43,
+ETH,Ethiopia,Africa,2015,2847.2,0.1246
+ETH,Ethiopia,Africa,2016,3009.9,0.1211
+ETH,Ethiopia,Africa,2017,2964.78,0.1166
+ETH,Ethiopia,Africa,2018,,0.1371
+ETH,Ethiopia,Africa,2019,3131.61,0.1188
+ETH,Ethiopia,Africa,2020,3406.95,0.1257
+ETH,Ethiopia,Africa,2021,3498.45,0.1214
+ETH,Ethiopia,Africa,2022,3674.76,0.1295
+EGY,Egypt,Middle East,1992,8035.42,2.311
+EGY,Egypt,Middle East,1993,8217.47,2.3354
+EGY,Egypt,Middle East,1994,8313.43,2.2005
+EGY,Egypt,Middle East,1995,8389.96,2.5419
+EGY,Egypt,Middle East,1996,8955.23,2.3771
+EGY,Egypt,Middle East,1997,8719.39,
+EGY,Egypt,Middle East,1998,9109.38,2.4786
+EGY,Egypt,Middle East,1999,9536.45,2.6954
+EGY,Egypt,Middle East,2000,9386.38,2.2402
+EGY,Egypt,Middle East,2001,10122.9,2.4966
+EGY,Egypt,Middle East,2002,10134.22,2.695
+EGY,Egypt,Middle East,2003,10446.74,2.3659
+EGY,Egypt,Middle East,2004,10954.23,2.5221
+EGY,Egypt,Middle East,2005,11024.53,2.5922
+EGY,Egypt,Middle East,2006,11454.67,2.4238
+EGY,Egypt,Middle East,2007,11517.08,2.3627
+EGY,Egypt,Middle East,2008,11969.4,2.8301
+EGY,Egypt,Middle East,2009,11967.27,2.3588
+EGY,Egypt,Middle East,2010,12357.8,2.5497
+EGY,Egypt,Middle East,2011,13034.97,2.6069
+EGY,Egypt,Middle East,2012,13276.06,2.5937
+EGY,Egypt,Middle East,2013,13473.43,2.5541
+EGY,Egypt,Middle East,2014,13570.51,2.7523
+EGY,Egypt,Middle East,2015,14116.82,2.7543
+EGY,Egypt,Middle East,2016,14372.06,2.7015
+EGY,Egypt,Middle East,2017,14380.58,2.6271
+EGY,Egypt,Middle East,2018,15162.97,2.9171
+EGY,Egypt,Middle East,2019,15395.42,2.7306
+EGY,Egypt,Middle East,2020,16310.52,2.9847
+EGY,Egypt,Middle East,2021,16916.55,2.8701
+EGY,Egypt,Middle East,2022,17083.5,3.0466
+PAK,Pakistan,South Asia,1992,3293.52,0.876
+PAK,Pakistan,South Asia,1993,3533.79,0.8682
+PAK,Pakistan,South Asia,1994,3482.04,0.8755
+PAK,Pakistan,South Asia,1995,3616.84,0.8999
+PAK,Pakistan,South Asia,1996,3575.43,0.8524
+PAK,Pakistan,South Asia,1997,3785.23,0.9288
+PAK,Pakistan,South Asia,1998,3785.89,0.8685
+PAK,Pakistan,South Asia,1999,3922.99,0.8698
+PAK,Pakistan,South Asia,2000,4007.94,0.7842
+PAK,Pakistan,South Asia,2001,4357.08,1.0278
+PAK,Pakistan,South Asia,2002,4168.67,0.8744
+PAK,Pakistan,South Asia,2003,4148.51,0.7933
+PAK,Pakistan,South Asia,2004,4435.9,0.9494
+PAK,Pakistan,South Asia,2005,4577.89,0.8739
+PAK,Pakistan,South Asia,2006,4684.34,0.9109
+PAK,Pakistan,South Asia,2007,,0.8488
+PAK,Pakistan,South Asia,2008,4771.38,0.934
+PAK,Pakistan,South Asia,2009,4991.06,0.9376
+PAK,Pakistan,South Asia,2010,4864.47,0.9122
+PAK,Pakistan,South Asia,2011,5145.2,0.9464
+PAK,Pakistan,South Asia,2012,5469.15,0.9406
+PAK,Pakistan,South Asia,2013,5476.24,1.0557
+PAK,Pakistan,South Asia,2014,5630.41,0.9612
+PAK,Pakistan,South Asia,2015,5644.37,0.9944
+PAK,Pakistan,South Asia,2016,5764.37,
+PAK,Pakistan,South Asia,2017,6103.0,0.9611
+PAK,Pakistan,South Asia,2018,6074.69,0.9387
+PAK,Pakistan,South Asia,2019,6102.11,0.9914
+PAK,Pakistan,South Asia,2020,6214.14,0.9668
+PAK,Pakistan,South Asia,2021,6616.84,0.9883
+PAK,Pakistan,South Asia,2022,6863.35,0.9926
+BGD,Bangladesh,South Asia,1992,2944.32,0.4732
+BGD,Bangladesh,South Asia,1993,2918.71,0.4523
+BGD,Bangladesh,South Asia,1994,2999.52,0.4526
+BGD,Bangladesh,South Asia,1995,3110.49,0.4323
+BGD,Bangladesh,South Asia,1996,3077.48,0.4355
+BGD,Bangladesh,South Asia,1997,3293.54,0.4885
+BGD,Bangladesh,South Asia,1998,3399.0,0.4584
+BGD,Bangladesh,South Asia,1999,3437.67,0.4684
+BGD,Bangladesh,South Asia,2000,3511.15,0.4703
+BGD,Bangladesh,South Asia,2001,3630.53,0.4702
+BGD,Bangladesh,South Asia,2002,3792.41,0.5266
+BGD,Bangladesh,South Asia,2003,3837.27,0.5218
+BGD,Bangladesh,South Asia,2004,3789.6,0.5173
+BGD,Bangladesh,South Asia,2005,4030.5,0.4875
+BGD,Bangladesh,South Asia,2006,4045.78,0.5408
+BGD,Bangladesh,South Asia,2007,4280.24,0.5101
+BGD,Bangladesh,South Asia,2008,4196.95,
+BGD,Bangladesh,South Asia,2009,4333.84,0.4989
+BGD,Bangladesh,South Asia,2010,4531.92,0.5006
+BGD,Bangladesh,South Asia,2011,4645.22,0.5227
+BGD,Bangladesh,South Asia,2012,4763.63,0.5353
+BGD,Bangladesh,South Asia,2013,5073.19,0.5085
+BGD,Bangladesh,South Asia,2014,5051.21,0.5093
+BGD,Bangladesh,South Asia,2015,5015.39,0.5558
+BGD,Bangladesh,South Asia,2016,5325.38,0.5069
+BGD,Bangladesh,South Asia,2017,5415.55,0.4999
+BGD,Bangladesh,South Asia,2018,5479.25,0.4903
+BGD,Bangladesh,South Asia,2019,5703.66,0.5769
+BGD,Bangladesh,South Asia,2020,5939.22,0.5565
+BGD,Bangladesh,South Asia,2021,6144.36,0.6169
+BGD,Bangladesh,South Asia,2022,6266.94,0.5618
+VNM,Vietnam,East Asia,1992,6798.94,1.8418
+VNM,Vietnam,East Asia,1993,6822.64,1.7904
+VNM,Vietnam,East Asia,1994,7048.23,1.8036
+VNM,Vietnam,East Asia,1995,7063.19,1.9173
+VNM,Vietnam,East Asia,1996,7521.86,1.9518
+VNM,Vietnam,East Asia,1997,7385.42,
+VNM,Vietnam,East Asia,1998,7752.57,1.9775
+VNM,Vietnam,East Asia,1999,7895.61,2.0916
+VNM,Vietnam,East Asia,2000,7989.57,1.9723
+VNM,Vietnam,East Asia,2001,8117.35,1.8631
+VNM,Vietnam,East Asia,2002,8273.94,1.7242
+VNM,Vietnam,East Asia,2003,8669.93,2.0307
+VNM,Vietnam,East Asia,2004,8877.08,1.919
+VNM,Vietnam,East Asia,2005,8896.09,1.9241
+VNM,Vietnam,East Asia,2006,9427.39,2.0646
+VNM,Vietnam,East Asia,2007,9452.95,2.1085
+VNM,Vietnam,East Asia,2008,9556.62,2.0612
+VNM,Vietnam,East Asia,2009,10316.68,2.2552
+VNM,Vietnam,East Asia,2010,10221.22,2.0887
+VNM,Vietnam,East Asia,2011,10503.38,2.2561
+VNM,Vietnam,East Asia,2012,10944.99,2.3213
+VNM,Vietnam,East Asia,2013,10963.22,1.9101
+VNM,Vietnam,East Asia,2014,11614.05,2.102
+VNM,Vietnam,East Asia,2015,11004.39,2.1629
+VNM,Vietnam,East Asia,2016,11252.17,2.0978
+VNM,Vietnam,East Asia,2017,11523.22,2.0754
+VNM,Vietnam,East Asia,2018,12715.81,2.2776
+VNM,Vietnam,East Asia,2019,12608.82,2.2542
+VNM,Vietnam,East Asia,2020,12231.4,2.0676
+VNM,Vietnam,East Asia,2021,13097.05,2.2874
+VNM,Vietnam,East Asia,2022,13283.33,2.238
+THA,Thailand,East Asia,1992,12251.42,3.5358
+THA,Thailand,East Asia,1993,12877.15,4.1386
+THA,Thailand,East Asia,1994,12646.3,3.5088
+THA,Thailand,East Asia,1995,13247.12,4.0214
+THA,Thailand,East Asia,1996,13880.63,3.5853
+THA,Thailand,East Asia,1997,13223.25,3.7295
+THA,Thailand,East Asia,1998,14276.79,3.8356
+THA,Thailand,East Asia,1999,14919.81,4.0615
+THA,Thailand,East Asia,2000,14930.07,3.8198
+THA,Thailand,East Asia,2001,15546.76,4.0018
+THA,Thailand,East Asia,2002,15866.18,4.2253
+THA,Thailand,East Asia,2003,16339.29,4.1208
+THA,Thailand,East Asia,2004,16684.7,3.7947
+THA,Thailand,East Asia,2005,16786.18,3.7358
+THA,Thailand,East Asia,2006,17789.35,3.7855
+THA,Thailand,East Asia,2007,17795.2,3.9755
+THA,Thailand,East Asia,2008,17566.34,3.8955
+THA,Thailand,East Asia,2009,18621.71,
+THA,Thailand,East Asia,2010,18476.78,4.3067
+THA,Thailand,East Asia,2011,19581.16,4.3415
+THA,Thailand,East Asia,2012,20185.35,3.9812
+THA,Thailand,East Asia,2013,21244.08,4.5907
+THA,Thailand,East Asia,2014,20724.9,4.3265
+THA,Thailand,East Asia,2015,21423.4,3.9479
+THA,Thailand,East Asia,2016,21867.73,4.5727
+THA,Thailand,East Asia,2017,23164.46,4.3413
+THA,Thailand,East Asia,2018,23958.76,4.7293
+THA,Thailand,East Asia,2019,23522.6,4.7356
+THA,Thailand,East Asia,2020,24297.23,4.3674
+THA,Thailand,East Asia,2021,24150.92,4.2278
+THA,Thailand,East Asia,2022,25627.95,4.5677
+MYS,Malaysia,East Asia,1992,,7.702
+MYS,Malaysia,East Asia,1993,21872.56,7.7763
+MYS,Malaysia,East Asia,1994,21802.86,7.3312
+MYS,Malaysia,East Asia,1995,22530.54,7.926
+MYS,Malaysia,East Asia,1996,22008.97,6.2357
+MYS,Malaysia,East Asia,1997,22893.82,7.3273
+MYS,Malaysia,East Asia,1998,23622.96,7.057
+MYS,Malaysia,East Asia,1999,24297.22,7.2225
+MYS,Malaysia,East Asia,2000,24518.35,7.5489
+MYS,Malaysia,East Asia,2001,24775.23,7.6477
+MYS,Malaysia,East Asia,2002,25986.09,7.261
+MYS,Malaysia,East Asia,2003,25725.55,7.048
+MYS,Malaysia,East Asia,2004,26478.07,7.5882
+MYS,Malaysia,East Asia,2005,27997.21,7.5621
+MYS,Malaysia,East Asia,2006,27680.77,7.366
+MYS,Malaysia,East Asia,2007,27797.06,7.6388
+MYS,Malaysia,East Asia,2008,28374.96,7.5121
+MYS,Malaysia,East Asia,2009,29402.8,7.7505
+MYS,Malaysia,East Asia,2010,28354.04,7.202
+MYS,Malaysia,East Asia,2011,30993.84,7.1936
+MYS,Malaysia,East Asia,2012,29108.33,7.5844
+MYS,Malaysia,East Asia,2013,31670.46,7.3307
+MYS,Malaysia,East Asia,2014,32202.89,7.5153
+MYS,Malaysia,East Asia,2015,33084.37,6.7831
+MYS,Malaysia,East Asia,2016,33227.81,7.5631
+MYS,Malaysia,East Asia,2017,,7.2103
+MYS,Malaysia,East Asia,2018,34746.97,
+MYS,Malaysia,East Asia,2019,36732.06,7.8954
+MYS,Malaysia,East Asia,2020,36318.97,7.2591
+MYS,Malaysia,East Asia,2021,36784.41,8.4173
+MYS,Malaysia,East Asia,2022,38935.1,8.3489
+PHL,Philippines,East Asia,1992,6589.97,1.1573
+PHL,Philippines,East Asia,1993,6589.83,1.2691
+PHL,Philippines,East Asia,1994,6589.6,1.0666
+PHL,Philippines,East Asia,1995,,1.1937
+PHL,Philippines,East Asia,1996,6656.39,1.164
+PHL,Philippines,East Asia,1997,7296.27,1.2861
+PHL,Philippines,East Asia,1998,7132.44,1.2016
+PHL,Philippines,East Asia,1999,7375.39,1.1982
+PHL,Philippines,East Asia,2000,7218.77,1.2194
+PHL,Philippines,East Asia,2001,7430.59,1.2034
+PHL,Philippines,East Asia,2002,7304.79,1.1527
+PHL,Philippines,East Asia,2003,7651.99,1.0726
+PHL,Philippines,East Asia,2004,7849.23,1.192
+PHL,Philippines,East Asia,2005,8058.45,1.2781
+PHL,Philippines,East Asia,2006,8297.08,1.1912
+PHL,Philippines,East Asia,2007,8307.48,1.2388
+PHL,Philippines,East Asia,2008,8346.45,1.1138
+PHL,Philippines,East Asia,2009,8527.3,1.2806
+PHL,Philippines,East Asia,2010,8447.74,1.1289
+PHL,Philippines,East Asia,2011,8719.77,1.1433
+PHL,Philippines,East Asia,2012,9138.64,1.19
+PHL,Philippines,East Asia,2013,9300.64,1.2337
+PHL,Philippines,East Asia,2014,9002.75,1.1671
+PHL,Philippines,East Asia,2015,9675.17,
+PHL,Philippines,East Asia,2016,9580.34,1.2963
+PHL,Philippines,East Asia,2017,9601.42,1.1738
+PHL,Philippines,East Asia,2018,10159.97,1.2888
+PHL,Philippines,East Asia,2019,9918.2,1.2416
+PHL,Philippines,East Asia,2020,10191.3,1.1036
+PHL,Philippines,East Asia,2021,10434.3,1.3576
+PHL,Philippines,East Asia,2022,10902.02,1.2543
+COL,Colombia,Latin America,1992,10783.87,1.7116
+COL,Colombia,Latin America,1993,11516.78,1.8347
+COL,Colombia,Latin America,1994,11757.53,1.8397
+COL,Colombia,Latin America,1995,11883.39,1.8829
+COL,Colombia,Latin America,1996,11894.09,1.76
+COL,Colombia,Latin America,1997,11806.56,1.6841
+COL,Colombia,Latin America,1998,12683.9,1.8608
+COL,Colombia,Latin America,1999,12060.74,1.907
+COL,Colombia,Latin America,2000,12903.21,1.8031
+COL,Colombia,Latin America,2001,12924.55,1.7361
+COL,Colombia,Latin America,2002,13344.97,1.8469
+COL,Colombia,Latin America,2003,13621.57,1.7541
+COL,Colombia,Latin America,2004,13519.04,1.6906
+COL,Colombia,Latin America,2005,14305.71,1.9156
+COL,Colombia,Latin America,2006,14378.7,1.9157
+COL,Colombia,Latin America,2007,14446.37,1.8816
+COL,Colombia,Latin America,2008,14890.3,1.9055
+COL,Colombia,Latin America,2009,14667.99,1.577
+COL,Colombia,Latin America,2010,15317.9,1.6541
+COL,Colombia,Latin America,2011,15389.86,1.6211
+COL,Colombia,Latin America,2012,16163.87,1.9458
+COL,Colombia,Latin America,2013,16145.2,1.7601
+COL,Colombia,Latin America,2014,15735.78,1.5969
+COL,Colombia,Latin America,2015,16402.65,1.8841
+COL,Colombia,Latin America,2016,16754.01,1.8748
+COL,Colombia,Latin America,2017,17347.21,1.9191
+COL,Colombia,Latin America,2018,16786.99,1.7277
+COL,Colombia,Latin America,2019,17919.66,2.0045
+COL,Colombia,Latin America,2020,18471.37,
+COL,Colombia,Latin America,2021,18831.41,1.9151
+COL,Colombia,Latin America,2022,18103.18,
+CHL,Chile,Latin America,1992,16059.82,4.1571
+CHL,Chile,Latin America,1993,16330.98,4.1657
+CHL,Chile,Latin America,1994,16587.26,4.061
+CHL,Chile,Latin America,1995,17399.33,4.2675
+CHL,Chile,Latin America,1996,17663.68,3.9997
+CHL,Chile,Latin America,1997,18298.78,3.9129
+CHL,Chile,Latin America,1998,18688.21,4.1664
+CHL,Chile,Latin America,1999,18555.3,4.1988
+CHL,Chile,Latin America,2000,19522.47,4.3021
+CHL,Chile,Latin America,2001,19974.32,4.429
+CHL,Chile,Latin America,2002,21706.68,3.9952
+CHL,Chile,Latin America,2003,21129.34,4.1237
+CHL,Chile,Latin America,2004,21714.28,4.3194
+CHL,Chile,Latin America,2005,23175.19,4.6829
+CHL,Chile,Latin America,2006,23837.99,4.721
+CHL,Chile,Latin America,2007,24411.43,4.4652
+CHL,Chile,Latin America,2008,24734.62,4.5543
+CHL,Chile,Latin America,2009,25511.61,4.7306
+CHL,Chile,Latin America,2010,26308.9,4.5895
+CHL,Chile,Latin America,2011,28214.17,5.1868
+CHL,Chile,Latin America,2012,29127.93,4.937
+CHL,Chile,Latin America,2013,29028.14,5.0131
+CHL,Chile,Latin America,2014,29730.99,5.1084
+CHL,Chile,Latin America,2015,30798.98,4.9408
+CHL,Chile,Latin America,2016,32656.11,4.7039
+CHL,Chile,Latin America,2017,32760.64,5.208
+CHL,Chile,Latin America,2018,34582.27,5.3661
+CHL,Chile,Latin America,2019,35075.66,
+CHL,Chile,Latin America,2020,35633.26,5.004
+CHL,Chile,Latin America,2021,37723.38,5.1393
+CHL,Chile,Latin America,2022,39962.09,5.8146
+PER,Peru,Latin America,1992,9181.49,1.5983
+PER,Peru,Latin America,1993,9498.06,1.7243
+PER,Peru,Latin America,1994,9318.69,1.6583
+PER,Peru,Latin America,1995,9495.98,1.6701
+PER,Peru,Latin America,1996,9623.63,1.8484
+PER,Peru,Latin America,1997,9957.62,1.7838
+PER,Peru,Latin America,1998,10337.32,1.6556
+PER,Peru,Latin America,1999,10482.54,1.8456
+PER,Peru,Latin America,2000,10656.69,1.6499
+PER,Peru,Latin America,2001,11113.96,1.5928
+PER,Peru,Latin America,2002,11174.57,1.8822
+PER,Peru,Latin America,2003,11436.12,1.8607
+PER,Peru,Latin America,2004,11486.34,1.741
+PER,Peru,Latin America,2005,11917.45,1.8357
+PER,Peru,Latin America,2006,12282.41,1.6373
+PER,Peru,Latin America,2007,,1.8094
+PER,Peru,Latin America,2008,12829.4,1.8023
+PER,Peru,Latin America,2009,13094.53,1.8287
+PER,Peru,Latin America,2010,13153.47,1.8977
+PER,Peru,Latin America,2011,13504.1,1.775
+PER,Peru,Latin America,2012,13562.98,1.7798
+PER,Peru,Latin America,2013,14105.47,1.6084
+PER,Peru,Latin America,2014,14037.13,1.5935
+PER,Peru,Latin America,2015,14871.47,2.0287
+PER,Peru,Latin America,2016,14850.12,1.8687
+PER,Peru,Latin America,2017,15530.34,1.9732
+PER,Peru,Latin America,2018,16179.45,2.17
+PER,Peru,Latin America,2019,16387.19,1.8697
+PER,Peru,Latin America,2020,16480.4,1.8895
+PER,Peru,Latin America,2021,16819.77,2.1115
+PER,Peru,Latin America,2022,17643.01,1.8331
+IRN,Iran,Middle East,1992,8267.9,7.3142
+IRN,Iran,Middle East,1993,8510.17,7.4036
+IRN,Iran,Middle East,1994,8958.24,7.8331
+IRN,Iran,Middle East,1995,9030.35,6.963
+IRN,Iran,Middle East,1996,,7.2551
+IRN,Iran,Middle East,1997,9713.41,7.8383
+IRN,Iran,Middle East,1998,10036.38,7.7669
+IRN,Iran,Middle East,1999,10466.32,7.3454
+IRN,Iran,Middle East,2000,10184.22,7.7173
+IRN,Iran,Middle East,2001,10742.45,8.0826
+IRN,Iran,Middle East,2002,11056.67,7.5513
+IRN,Iran,Middle East,2003,11503.97,7.9562
+IRN,Iran,Middle East,2004,11671.11,8.9299
+IRN,Iran,Middle East,2005,12287.61,8.4331
+IRN,Iran,Middle East,2006,12356.41,8.0949
+IRN,Iran,Middle East,2007,12589.97,8.1954
+IRN,Iran,Middle East,2008,12887.2,7.69
+IRN,Iran,Middle East,2009,13356.99,8.4063
+IRN,Iran,Middle East,2010,14002.37,8.1492
+IRN,Iran,Middle East,2011,14122.69,8.6659
+IRN,Iran,Middle East,2012,14644.3,9.2911
+IRN,Iran,Middle East,2013,14812.41,8.1941
+IRN,Iran,Middle East,2014,15335.28,8.579
+IRN,Iran,Middle East,2015,15597.26,8.4675
+IRN,Iran,Middle East,2016,16251.17,8.5716
+IRN,Iran,Middle East,2017,16839.65,9.3019
+IRN,Iran,Middle East,2018,17184.62,8.5943
+IRN,Iran,Middle East,2019,17608.01,9.5766
+IRN,Iran,Middle East,2020,18289.55,9.5517
+IRN,Iran,Middle East,2021,18500.84,9.219
+IRN,Iran,Middle East,2022,19462.9,9.6015
+UKR,Ukraine,Europe,1992,7524.84,4.136
+UKR,Ukraine,Europe,1993,7010.53,3.9233
+UKR,Ukraine,Europe,1994,7486.04,4.1562
+UKR,Ukraine,Europe,1995,7777.0,3.7834
+UKR,Ukraine,Europe,1996,7986.09,4.1946
+UKR,Ukraine,Europe,1997,8072.15,3.8743
+UKR,Ukraine,Europe,1998,8570.57,4.2424
+UKR,Ukraine,Europe,1999,8663.26,4.1514
+UKR,Ukraine,Europe,2000,8830.07,4.2827
+UKR,Ukraine,Europe,2001,9121.93,4.3309
+UKR,Ukraine,Europe,2002,9091.41,4.3349
+UKR,Ukraine,Europe,2003,9479.24,4.4759
+UKR,Ukraine,Europe,2004,9923.85,4.2896
+UKR,Ukraine,Europe,2005,10175.27,4.2927
+UKR,Ukraine,Europe,2006,10385.97,4.7189
+UKR,Ukraine,Europe,2007,10437.89,4.376
+UKR,Ukraine,Europe,2008,10641.9,
+UKR,Ukraine,Europe,2009,11254.32,4.6632
+UKR,Ukraine,Europe,2010,10909.02,4.4305
+UKR,Ukraine,Europe,2011,11565.56,4.806
+UKR,Ukraine,Europe,2012,12133.89,4.84
+UKR,Ukraine,Europe,2013,12539.84,5.1036
+UKR,Ukraine,Europe,2014,12529.6,4.6211
+UKR,Ukraine,Europe,2015,12964.39,4.4888
+UKR,Ukraine,Europe,2016,13366.83,4.812
+UKR,Ukraine,Europe,2017,14548.51,5.554
+UKR,Ukraine,Europe,2018,13872.45,4.7232
+UKR,Ukraine,Europe,2019,14218.61,5.2532
+UKR,Ukraine,Europe,2020,15092.06,5.5338
+UKR,Ukraine,Europe,2021,14929.8,5.1986
+UKR,Ukraine,Europe,2022,15349.54,5.5539
+RUS,Russia,Europe,1992,18647.7,10.8182
+RUS,Russia,Europe,1993,19458.86,10.4341
+RUS,Russia,Europe,1994,19473.53,11.028
+RUS,Russia,Europe,1995,19921.04,11.6833
+RUS,Russia,Europe,1996,21144.31,11.8348
+RUS,Russia,Europe,1997,20842.82,11.1528
+RUS,Russia,Europe,1998,22212.62,11.1179
+RUS,Russia,Europe,1999,22177.03,12.5358
+RUS,Russia,Europe,2000,23135.28,12.9855
+RUS,Russia,Europe,2001,23156.67,12.1055
+RUS,Russia,Europe,2002,23262.16,11.0226
+RUS,Russia,Europe,2003,23918.73,12.5383
+RUS,Russia,Europe,2004,23438.41,11.3222
+RUS,Russia,Europe,2005,25273.18,12.0935
+RUS,Russia,Europe,2006,26157.87,12.8807
+RUS,Russia,Europe,2007,25335.92,11.9221
+RUS,Russia,Europe,2008,26215.1,11.6016
+RUS,Russia,Europe,2009,26440.09,12.1353
+RUS,Russia,Europe,2010,28426.18,12.6943
+RUS,Russia,Europe,2011,27526.15,12.0578
+RUS,Russia,Europe,2012,29185.11,12.3924
+RUS,Russia,Europe,2013,29679.37,12.0882
+RUS,Russia,Europe,2014,29971.03,12.2697
+RUS,Russia,Europe,2015,31648.01,12.1769
+RUS,Russia,Europe,2016,30101.55,13.1158
+RUS,Russia,Europe,2017,32113.79,11.9448
+RUS,Russia,Europe,2018,33294.26,13.2461
+RUS,Russia,Europe,2019,34502.57,13.1978
+RUS,Russia,Europe,2020,35760.16,13.1937
+RUS,Russia,Europe,2021,35198.45,13.4633
+RUS,Russia,Europe,2022,37810.97,13.2411
+KAZ,Kazakhstan,Central Asia,1992,16667.82,12.3179
+KAZ,Kazakhstan,Central Asia,1993,16553.82,12.8441
+KAZ,Kazakhstan,Central Asia,1994,17738.66,
+KAZ,Kazakhstan,Central Asia,1995,17598.1,12.8996
+KAZ,Kazakhstan,Central Asia,1996,17229.83,14.2975
+KAZ,Kazakhstan,Central Asia,1997,18357.85,12.8792
+KAZ,Kazakhstan,Central Asia,1998,19672.77,13.0536
+KAZ,Kazakhstan,Central Asia,1999,19725.92,13.7826
+KAZ,Kazakhstan,Central Asia,2000,19950.83,14.1192
+KAZ,Kazakhstan,Central Asia,2001,20398.14,
+KAZ,Kazakhstan,Central Asia,2002,21484.02,13.7098
+KAZ,Kazakhstan,Central Asia,2003,21243.85,12.8066
+KAZ,Kazakhstan,Central Asia,2004,21870.21,14.857
+KAZ,Kazakhstan,Central Asia,2005,21105.9,13.5843
+KAZ,Kazakhstan,Central Asia,2006,22830.61,14.4769
+KAZ,Kazakhstan,Central Asia,2007,22458.47,13.1631
+KAZ,Kazakhstan,Central Asia,2008,23469.63,13.9172
+KAZ,Kazakhstan,Central Asia,2009,23908.91,13.3331
+KAZ,Kazakhstan,Central Asia,2010,24632.39,15.62
+KAZ,Kazakhstan,Central Asia,2011,24589.86,14.0972
+KAZ,Kazakhstan,Central Asia,2012,26064.69,13.5986
+KAZ,Kazakhstan,Central Asia,2013,26355.98,15.4463
+KAZ,Kazakhstan,Central Asia,2014,26402.96,14.6371
+KAZ,Kazakhstan,Central Asia,2015,28077.04,16.8783
+KAZ,Kazakhstan,Central Asia,2016,28218.99,14.406
+KAZ,Kazakhstan,Central Asia,2017,27781.43,14.113
+KAZ,Kazakhstan,Central Asia,2018,28657.7,16.1082
+KAZ,Kazakhstan,Central Asia,2019,30677.3,14.5226
+KAZ,Kazakhstan,Central Asia,2020,30352.56,15.1462
+KAZ,Kazakhstan,Central Asia,2021,32177.65,15.9635
+KAZ,Kazakhstan,Central Asia,2022,32498.04,15.6776
+UZB,Uzbekistan,Central Asia,1992,5445.53,3.264
+UZB,Uzbekistan,Central Asia,1993,5832.24,3.466
+UZB,Uzbekistan,Central Asia,1994,5495.73,3.5861
+UZB,Uzbekistan,Central Asia,1995,5695.68,3.1249
+UZB,Uzbekistan,Central Asia,1996,5825.33,3.3244
+UZB,Uzbekistan,Central Asia,1997,5983.39,3.3509
+UZB,Uzbekistan,Central Asia,1998,6107.61,3.4376
+UZB,Uzbekistan,Central Asia,1999,6241.49,3.4977
+UZB,Uzbekistan,Central Asia,2000,6409.46,3.5432
+UZB,Uzbekistan,Central Asia,2001,6571.38,3.3666
+UZB,Uzbekistan,Central Asia,2002,6516.94,3.6125
+UZB,Uzbekistan,Central Asia,2003,6678.4,3.4337
+UZB,Uzbekistan,Central Asia,2004,6836.26,3.8961
+UZB,Uzbekistan,Central Asia,2005,6881.7,3.3114
+UZB,Uzbekistan,Central Asia,2006,7135.87,3.4799
+UZB,Uzbekistan,Central Asia,2007,7114.89,3.4541
+UZB,Uzbekistan,Central Asia,2008,7422.79,3.4509
+UZB,Uzbekistan,Central Asia,2009,7543.33,3.4102
+UZB,Uzbekistan,Central Asia,2010,7542.51,3.4359
+UZB,Uzbekistan,Central Asia,2011,,3.3049
+UZB,Uzbekistan,Central Asia,2012,7728.69,3.5361
+UZB,Uzbekistan,Central Asia,2013,8105.27,3.7713
+UZB,Uzbekistan,Central Asia,2014,8018.74,3.4536
+UZB,Uzbekistan,Central Asia,2015,8538.62,3.5257
+UZB,Uzbekistan,Central Asia,2016,8661.94,3.3186
+UZB,Uzbekistan,Central Asia,2017,8763.83,3.4825
+UZB,Uzbekistan,Central Asia,2018,9181.23,3.7438
+UZB,Uzbekistan,Central Asia,2019,9332.51,3.9435
+UZB,Uzbekistan,Central Asia,2020,9275.82,3.6883
+UZB,Uzbekistan,Central Asia,2021,9350.23,3.7189
+UZB,Uzbekistan,Central Asia,2022,9840.42,3.8027
+CZE,Czech Republic,Europe,1992,27173.2,9.0683
+CZE,Czech Republic,Europe,1993,28430.58,8.7768
+CZE,Czech Republic,Europe,1994,27742.7,9.4548
+CZE,Czech Republic,Europe,1995,27441.71,8.7421
+CZE,Czech Republic,Europe,1996,27867.05,9.4111
+CZE,Czech Republic,Europe,1997,29241.17,8.7001
+CZE,Czech Republic,Europe,1998,30547.26,9.257
+CZE,Czech Republic,Europe,1999,31138.27,9.4939
+CZE,Czech Republic,Europe,2000,30721.13,8.8736
+CZE,Czech Republic,Europe,2001,31504.46,8.6794
+CZE,Czech Republic,Europe,2002,31695.0,10.1046
+CZE,Czech Republic,Europe,2003,33661.81,9.6299
+CZE,Czech Republic,Europe,2004,34986.91,9.3337
+CZE,Czech Republic,Europe,2005,34077.28,9.6678
+CZE,Czech Republic,Europe,2006,34937.82,9.7279
+CZE,Czech Republic,Europe,2007,35529.77,8.8345
+CZE,Czech Republic,Europe,2008,36935.58,9.894
+CZE,Czech Republic,Europe,2009,39511.4,10.1447
+CZE,Czech Republic,Europe,2010,38641.49,10.136
+CZE,Czech Republic,Europe,2011,38811.74,9.1866
+CZE,Czech Republic,Europe,2012,40954.18,10.2698
+CZE,Czech Republic,Europe,2013,41633.51,9.7488
+CZE,Czech Republic,Europe,2014,42527.42,10.504
+CZE,Czech Republic,Europe,2015,43048.7,9.4616
+CZE,Czech Republic,Europe,2016,44446.2,10.6999
+CZE,Czech Republic,Europe,2017,45096.76,9.9314
+CZE,Czech Republic,Europe,2018,45329.57,9.8877
+CZE,Czech Republic,Europe,2019,,9.7009
+CZE,Czech Republic,Europe,2020,49912.78,10.5937
+CZE,Czech Republic,Europe,2021,49424.9,10.4203
+CZE,Czech Republic,Europe,2022,51549.24,9.6309
+HUN,Hungary,Europe,1992,21198.35,3.9595
+HUN,Hungary,Europe,1993,21031.88,3.9822
+HUN,Hungary,Europe,1994,22139.34,3.9449
+HUN,Hungary,Europe,1995,22565.85,4.1042
+HUN,Hungary,Europe,1996,23743.77,4.2222
+HUN,Hungary,Europe,1997,22550.1,4.2151
+HUN,Hungary,Europe,1998,24366.64,4.3085
+HUN,Hungary,Europe,1999,25403.64,4.014
+HUN,Hungary,Europe,2000,25015.35,4.2559
+HUN,Hungary,Europe,2001,26201.38,4.3212
+HUN,Hungary,Europe,2002,26037.1,4.1963
+HUN,Hungary,Europe,2003,28422.8,4.2853
+HUN,Hungary,Europe,2004,28219.04,4.5565
+HUN,Hungary,Europe,2005,29432.2,4.6874
+HUN,Hungary,Europe,2006,29432.36,4.3016
+HUN,Hungary,Europe,2007,31590.9,4.8846
+HUN,Hungary,Europe,2008,31361.6,4.9354
+HUN,Hungary,Europe,2009,31212.26,4.2589
+HUN,Hungary,Europe,2010,31609.06,
+HUN,Hungary,Europe,2011,33985.41,4.4131
+HUN,Hungary,Europe,2012,35337.65,4.3833
+HUN,Hungary,Europe,2013,35911.49,4.9552
+HUN,Hungary,Europe,2014,36693.17,4.4916
+HUN,Hungary,Europe,2015,38463.73,4.8329
+HUN,Hungary,Europe,2016,38174.98,4.7163
+HUN,Hungary,Europe,2017,40104.36,4.8671
+HUN,Hungary,Europe,2018,39684.17,5.1548
+HUN,Hungary,Europe,2019,,5.2869
+HUN,Hungary,Europe,2020,42777.64,4.8921
+HUN,Hungary,Europe,2021,42388.6,5.0286
+HUN,Hungary,Europe,2022,44763.7,5.3246
+ROU,Romania,Europe,1992,18984.8,3.5585
+ROU,Romania,Europe,1993,18944.01,3.4342
+ROU,Romania,Europe,1994,19167.24,3.8476
+ROU,Romania,Europe,1995,20252.85,3.3779
+ROU,Romania,Europe,1996,21278.26,3.514
+ROU,Romania,Europe,1997,20753.58,3.5638
+ROU,Romania,Europe,1998,21461.45,3.7854
+ROU,Romania,Europe,1999,21101.44,3.5796
+ROU,Romania,Europe,2000,22283.63,3.7089
+ROU,Romania,Europe,2001,22751.17,3.6111
+ROU,Romania,Europe,2002,,4.0507
+ROU,Romania,Europe,2003,23708.5,3.9465
+ROU,Romania,Europe,2004,24503.93,3.7917
+ROU,Romania,Europe,2005,25067.17,3.8896
+ROU,Romania,Europe,2006,25339.22,3.9969
+ROU,Romania,Europe,2007,26334.74,3.6242
+ROU,Romania,Europe,2008,25535.82,4.0545
+ROU,Romania,Europe,2009,27357.09,3.629
+ROU,Romania,Europe,2010,27596.62,4.0401
+ROU,Romania,Europe,2011,28347.01,3.8801
+ROU,Romania,Europe,2012,29474.15,4.0277
+ROU,Romania,Europe,2013,30040.64,4.1161
+ROU,Romania,Europe,2014,29941.3,3.8121
+ROU,Romania,Europe,2015,30530.57,3.8356
+ROU,Romania,Europe,2016,31625.65,3.9911
+ROU,Romania,Europe,2017,33300.14,4.1629
+ROU,Romania,Europe,2018,33040.73,4.5963
+ROU,Romania,Europe,2019,33166.31,3.9558
+ROU,Romania,Europe,2020,35806.49,4.5721
+ROU,Romania,Europe,2021,35118.87,3.7786
+ROU,Romania,Europe,2022,35798.36,4.4049
