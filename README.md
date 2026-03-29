@@ -12,7 +12,7 @@ Does economic growth cause CO₂ emissions? This report estimates the elasticity
 
 | File | Description |
 |------|-------------|
-| `DA4_Assignment2_CO2_GDP.html` | Full report — open in any browser |
+| `index.html` | Full report — open in any browser |
 | `analysis.py` | Python script that downloads, cleans, estimates, and renders the report |
 | `wdi_data.csv` | Panel dataset (World Development Indicators) |
 
